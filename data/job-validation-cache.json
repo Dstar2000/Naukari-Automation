@@ -1,0 +1,90 @@
+[
+  {
+    "jobId": "test_ext_456",
+    "originalUrl": "https://www.naukri.com/job-listings-external-dev-456",
+    "verifiedUrl": null,
+    "company": "External Company",
+    "role": "Backend Engineer",
+    "status": "NON_LIVE_VERIFIED",
+    "detectedStatus": "JOB_EXPIRED",
+    "checkedAt": "2026-08-10T05:56:49.121Z"
+  },
+  {
+    "jobId": "test_easy_123",
+    "originalUrl": "https://www.naukri.com/job-listings-easy-dev-123",
+    "verifiedUrl": null,
+    "company": "Easy Company",
+    "role": "Full Stack Developer",
+    "status": "NON_LIVE_VERIFIED",
+    "detectedStatus": "JOB_EXPIRED",
+    "checkedAt": "2026-08-10T05:56:54.382Z"
+  },
+  {
+    "jobId": "guard_test_123",
+    "originalUrl": "https://www.naukri.com/job-listings-guard-test-123",
+    "verifiedUrl": null,
+    "company": "Guard Company",
+    "role": "React JS Developer",
+    "status": "NON_LIVE_VERIFIED",
+    "detectedStatus": "JOB_EXPIRED",
+    "checkedAt": "2026-08-10T05:57:01.936Z"
+  },
+  {
+    "jobId": "b00c6b8697",
+    "originalUrl": "https://www.naukri.com/job-listings-mern-stack-developer-sixsigma-technosoft-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-1-to-5-years-121224502854",
+    "verifiedUrl": null,
+    "company": "Sixsigma Technosoft",
+    "role": "MERN Stack Developer",
+    "status": "NON_LIVE_VERIFIED",
+    "detectedStatus": "JOB_EXPIRED",
+    "checkedAt": "2026-08-13T07:33:47.130Z"
+  },
+  {
+    "originalUrl": "https://www.naukri.com/job-listings-mern-stack-developer-coddle-technologies-private-ltd-bengaluru-0-to-2-years-120226500917",
+    "verifiedUrl": null,
+    "company": "",
+    "role": "",
+    "status": "NON_LIVE_VERIFIED",
+    "detectedStatus": "JOB_EXPIRED",
+    "checkedAt": "2026-08-10T06:13:57.431Z"
+  },
+  {
+    "originalUrl": "https://www.naukri.com/job-listings-mern-stack-developer-vbeyond-corporation-bengaluru-2-to-5-years-070826019309",
+    "verifiedUrl": "https://www.naukri.com/job-listings-mern-stack-developer-vbeyond-corporation-bengaluru-2-to-5-years-070826019309",
+    "company": "",
+    "role": "",
+    "status": "LIVE_VERIFIED",
+    "detectedStatus": "LIVE",
+    "checkedAt": "2026-08-10T06:30:34.665Z"
+  },
+  {
+    "jobId": "1ad3e0d369",
+    "originalUrl": "https://www.naukri.com/job-listings-software-developer-mern-stack-jobaaj-com-hyderabad-pune-bengaluru-0-to-1-years-110826040389",
+    "verifiedUrl": "https://www.naukri.com/job-listings-software-developer-mern-stack-jobaaj-com-hyderabad-pune-bengaluru-0-to-1-years-110826040389",
+    "company": "jobaaj",
+    "role": "Software Developer MERN Stack",
+    "status": "LIVE_VERIFIED",
+    "detectedStatus": "LIVE",
+    "checkedAt": "2026-08-13T07:37:06.514Z"
+  },
+  {
+    "jobId": "test123",
+    "originalUrl": "https://www.naukri.com/job-listings-test-123",
+    "verifiedUrl": null,
+    "company": "Company",
+    "role": "",
+    "status": "NON_LIVE_VERIFIED",
+    "detectedStatus": "JOB_EXPIRED",
+    "checkedAt": "2026-08-13T07:33:11.428Z"
+  },
+  {
+    "jobId": "be6497dbdc",
+    "originalUrl": "https://www.naukri.com/job-listings-mern-stack-developer-the-glove-bengaluru-india-3-to-8-years-110826030677",
+    "verifiedUrl": "https://www.naukri.com/job-listings-mern-stack-developer-the-glove-bengaluru-india-3-to-8-years-110826030677",
+    "company": "The Glove",
+    "role": "Mern Stack Developer",
+    "status": "LIVE_VERIFIED",
+    "detectedStatus": "LIVE",
+    "checkedAt": "2026-08-13T08:09:05.855Z"
+  }
+]

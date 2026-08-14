@@ -1,0 +1,279 @@
+[
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786449221382",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-11T11:53:41.382Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786449222286",
+    "status": "ACTIVE",
+    "operator": "AUDIT_OPERATOR",
+    "reason": "Audit approval",
+    "timestamp": "2026-08-11T11:53:42.286Z",
+    "expiresAt": "2026-08-12T11:53:42.286Z"
+  },
+  {
+    "action": "REVOKE",
+    "activationId": "act_rev_1786449232037",
+    "status": "REVOKED",
+    "operator": "AUDIT_OPERATOR",
+    "reason": "Audit revocation",
+    "timestamp": "2026-08-11T11:53:52.037Z"
+  },
+  {
+    "action": "REJECT",
+    "activationId": "act_rej_1786449232039",
+    "status": "REJECTED",
+    "operator": "AUDIT_OPERATOR",
+    "reason": "Audit rejection",
+    "timestamp": "2026-08-11T11:53:52.039Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786449378200",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-11T11:56:18.200Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786449388599",
+    "status": "ACTIVE",
+    "operator": "P339_TEST_OPERATOR",
+    "reason": "P3.39 Explicit operator control approval",
+    "timestamp": "2026-08-11T11:56:28.599Z",
+    "expiresAt": "2026-08-12T11:56:28.599Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786449561433",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-11T11:59:21.433Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786449571706",
+    "status": "ACTIVE",
+    "operator": "P339_TEST_OPERATOR",
+    "reason": "P3.39 Explicit operator control approval",
+    "timestamp": "2026-08-11T11:59:31.706Z",
+    "expiresAt": "2026-08-12T11:59:31.706Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786450019891",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-11T12:06:59.891Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786450029922",
+    "status": "ACTIVE",
+    "operator": "P339_TEST_OPERATOR",
+    "reason": "P3.39 Explicit operator control approval",
+    "timestamp": "2026-08-11T12:07:09.922Z",
+    "expiresAt": "2026-08-12T12:07:09.922Z"
+  },
+  {
+    "action": "REVOKE",
+    "activationId": "act_rev_1786450053424",
+    "status": "REVOKED",
+    "operator": "P339_TEST_OPERATOR",
+    "reason": "P3.39 Explicit operator revocation",
+    "timestamp": "2026-08-11T12:07:33.424Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786451888759",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-11T12:38:08.759Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786451889690",
+    "status": "ACTIVE",
+    "operator": "AUDIT_OPERATOR",
+    "reason": "Audit approval",
+    "timestamp": "2026-08-11T12:38:09.690Z",
+    "expiresAt": "2026-08-12T12:38:09.690Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786452218682",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-11T12:43:38.682Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786452219088",
+    "status": "ACTIVE",
+    "operator": "AUDIT_OPERATOR",
+    "reason": "Audit approval",
+    "timestamp": "2026-08-11T12:43:39.088Z",
+    "expiresAt": "2026-08-12T12:43:39.088Z"
+  },
+  {
+    "action": "REVOKE",
+    "activationId": "act_rev_1786452223548",
+    "status": "REVOKED",
+    "operator": "AUDIT_OPERATOR",
+    "reason": "Audit revocation",
+    "timestamp": "2026-08-11T12:43:43.548Z"
+  },
+  {
+    "action": "REJECT",
+    "activationId": "act_rej_1786452223549",
+    "status": "REJECTED",
+    "operator": "AUDIT_OPERATOR",
+    "reason": "Audit rejection",
+    "timestamp": "2026-08-11T12:43:43.549Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786601643862",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:14:03.862Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786601644566",
+    "status": "ACTIVE",
+    "operator": "Dileep Kumar",
+    "reason": "Final human-approved production activation — operator: Dileep Kumar",
+    "timestamp": "2026-08-13T06:14:04.566Z",
+    "expiresAt": "2026-08-14T06:14:04.566Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786604018122",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:53:38.122Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786604025667",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:53:45.667Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786604033241",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:53:53.241Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786604033965",
+    "status": "ACTIVE",
+    "operator": "P340_TEST_OPERATOR",
+    "reason": "Runbook test approval",
+    "timestamp": "2026-08-13T06:53:53.965Z",
+    "expiresAt": "2026-08-14T06:53:53.965Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786604048797",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:54:08.797Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786604049435",
+    "status": "ACTIVE",
+    "operator": "P340_TEST_OPERATOR",
+    "reason": "Test approval",
+    "timestamp": "2026-08-13T06:54:09.435Z",
+    "expiresAt": "2026-08-14T06:54:09.435Z"
+  },
+  {
+    "action": "REVOKE",
+    "activationId": "act_rev_1786604049437",
+    "status": "REVOKED",
+    "operator": "P340_TEST_OPERATOR",
+    "reason": "Test revocation",
+    "timestamp": "2026-08-13T06:54:09.437Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786604117622",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:55:17.622Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786604118336",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:55:18.336Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786604119015",
+    "status": "ACTIVE",
+    "operator": "P340_RUNBOOK_AUDITOR",
+    "reason": "Runbook audit approval",
+    "timestamp": "2026-08-13T06:55:19.015Z",
+    "expiresAt": "2026-08-14T06:55:19.015Z"
+  },
+  {
+    "action": "REVOKE",
+    "activationId": "act_rev_1786604119018",
+    "status": "REVOKED",
+    "operator": "P340_RUNBOOK_AUDITOR",
+    "reason": "Runbook audit revocation",
+    "timestamp": "2026-08-13T06:55:19.018Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786604272075",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:57:52.075Z"
+  },
+  {
+    "action": "REQUEST",
+    "activationId": "act_req_1786604272804",
+    "status": "PENDING_APPROVAL",
+    "operator": "SYSTEM_OPERATOR",
+    "reason": "OPERATOR_APPROVAL_REQUESTED",
+    "timestamp": "2026-08-13T06:57:52.804Z"
+  },
+  {
+    "action": "APPROVE",
+    "activationId": "act_app_1786605260911",
+    "status": "ACTIVE",
+    "operator": "Dileep Kumar",
+    "reason": {
+      "ttlHours": 8760
+    },
+    "timestamp": "2026-08-13T07:14:20.911Z",
+    "expiresAt": "2026-08-14T07:14:20.911Z"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "status": "ACTIVE",
+  "activationId": "act_app_1786605260911",
+  "approvedBy": "Dileep Kumar",
+  "approvedAt": "2026-08-13T07:14:20.911Z",
+  "expiresAt": "2026-08-14T07:14:20.911Z",
+  "reason": {
+    "ttlHours": 8760
+  },
+  "lastChangedAt": "2026-08-13T07:14:20.911Z"
+}

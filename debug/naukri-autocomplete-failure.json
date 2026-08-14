@@ -1,0 +1,452 @@
+{
+  "timestamp": "2026-08-13T15:03:00.106Z",
+  "totalTested": 27,
+  "failingCount": 6,
+  "failingSkills": [
+    "Jsx",
+    "Tailwind CSS",
+    "Rest API Integration",
+    "MySQL",
+    "Front End",
+    "Frontend Development"
+  ],
+  "results": [
+    {
+      "targetSkill": "Jsx",
+      "inputValue": "Jsx",
+      "targetNorm": "jsx",
+      "dropdownVisible": true,
+      "candidateCount": 0,
+      "candidates": [],
+      "exactMatchFound": false,
+      "exactMatchText": null
+    },
+    {
+      "targetSkill": "Github",
+      "inputValue": "Githu",
+      "targetNorm": "github",
+      "dropdownVisible": true,
+      "candidateCount": 5,
+      "candidates": [
+        "Tfs / Github",
+        "Github",
+        "Github Actions",
+        "Github Copilot",
+        "Github Enterprise"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Github"
+    },
+    {
+      "targetSkill": "Tailwind CSS",
+      "inputValue": "Tailw",
+      "targetNorm": "tailwind css",
+      "dropdownVisible": true,
+      "candidateCount": 5,
+      "candidates": [
+        "Tfs / Github",
+        "Github",
+        "Github Actions",
+        "Github Copilot",
+        "Github Enterprise"
+      ],
+      "exactMatchFound": false,
+      "exactMatchText": null
+    },
+    {
+      "targetSkill": "Rest API Integration",
+      "inputValue": "Rest ",
+      "targetNorm": "rest api integration",
+      "dropdownVisible": true,
+      "candidateCount": 4,
+      "candidates": [
+        "Tailoring",
+        "Tail LAMP",
+        "Tailgate",
+        "Tailwind CSS"
+      ],
+      "exactMatchFound": false,
+      "exactMatchText": null
+    },
+    {
+      "targetSkill": "Bootstrap",
+      "inputValue": "Boots",
+      "targetNorm": "bootstrap",
+      "dropdownVisible": true,
+      "candidateCount": 4,
+      "candidates": [
+        "Bootstrap",
+        "Bootstrap Framework",
+        "Bootstrap CSS Framework",
+        "Rwd Using Bootstrap"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Bootstrap"
+    },
+    {
+      "targetSkill": "React.js",
+      "inputValue": "React",
+      "targetNorm": "react.js",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "React.js",
+        "React Native",
+        "Reactors",
+        "Reaction",
+        "Reactis",
+        "Reactive Programming",
+        "Reactor Design"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "React.js"
+    },
+    {
+      "targetSkill": "MySQL",
+      "inputValue": "MySQL",
+      "targetNorm": "mysql",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "React.js",
+        "React Native",
+        "Reactors",
+        "Reaction",
+        "Reactis",
+        "Reactive Programming",
+        "Reactor Design"
+      ],
+      "exactMatchFound": false,
+      "exactMatchText": null
+    },
+    {
+      "targetSkill": "Javascript",
+      "inputValue": "Javas",
+      "targetNorm": "javascript",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "Javascript",
+        "Javascript Frameworks",
+        "Javascript Mv-VM",
+        "Javascript and jQuery",
+        "Javascript Object Model",
+        "Object Oriented Javascript",
+        "OO Javascript"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Javascript"
+    },
+    {
+      "targetSkill": "CSS",
+      "inputValue": "CSS",
+      "targetNorm": "css",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "CSS",
+        "Html/Css",
+        "Css/Css3",
+        "Csslp",
+        "CSS Net",
+        "Cssinjs",
+        "CSS Modules"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "CSS"
+    },
+    {
+      "targetSkill": "HTML",
+      "inputValue": "HTML",
+      "targetNorm": "html",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "HTML",
+        "Htmlunit",
+        "Html5b",
+        "HTML Tags",
+        "Html/Css",
+        "HTML and CSS",
+        "HTML Boilerplate"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "HTML"
+    },
+    {
+      "targetSkill": "Web Technologies",
+      "inputValue": "Web T",
+      "targetNorm": "web technologies",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "Web Technologies",
+        "Web Testing",
+        "Web Tools",
+        "Web Technology",
+        "Web Traffic Analysis",
+        "Web Application Testing",
+        "Web Services Testing"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Web Technologies"
+    },
+    {
+      "targetSkill": "Backend",
+      "inputValue": "Backe",
+      "targetNorm": "backend",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "Backend",
+        "Backend Operations",
+        "Backend Testing",
+        "Backend Process",
+        "Backend Support",
+        "Backend Development",
+        "Backend Test Automation"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Backend"
+    },
+    {
+      "targetSkill": "Express",
+      "inputValue": "Expre",
+      "targetNorm": "express",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "Express",
+        "Expressway",
+        "Expression",
+        "Expression Blend",
+        "Express PCB",
+        "Expresjs",
+        "Expressroute"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Express"
+    },
+    {
+      "targetSkill": "Node.Js",
+      "inputValue": "Node.",
+      "targetNorm": "node.js",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "Node.js",
+        "Node B",
+        "Node-RED",
+        "Node",
+        "Node API",
+        "Node Express",
+        "Nodejs Server"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Node.js"
+    },
+    {
+      "targetSkill": "Node",
+      "inputValue": "Node",
+      "targetNorm": "node",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "Node",
+        "Node.js",
+        "Node B",
+        "Node-RED",
+        "Node API",
+        "Node Express",
+        "Nodejs Server"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Node"
+    },
+    {
+      "targetSkill": "MongoDB",
+      "inputValue": "Mongo",
+      "targetNorm": "mongodb",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "MongoDB",
+        "MongoDB DBA",
+        "MongoDB Atlas",
+        "Mongo DB Basics",
+        "Mongo Ops Manager",
+        "MongoDB Database",
+        "MongoDB Administration"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "MongoDB"
+    },
+    {
+      "targetSkill": "Mern",
+      "inputValue": "Mern",
+      "targetNorm": "mern",
+      "dropdownVisible": true,
+      "candidateCount": 3,
+      "candidates": [
+        "Mern",
+        "Mern Stack",
+        "Mern Full Stack"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Mern"
+    },
+    {
+      "targetSkill": "Full Stack",
+      "inputValue": "Full ",
+      "targetNorm": "full stack",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "Full Stack",
+        "Fullstory",
+        "Full Search",
+        "Full-Stack Net",
+        "Fullstack Development",
+        "Full Life Cycle Recruiting",
+        "Full Mobile Development Life Cycle"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Full Stack"
+    },
+    {
+      "targetSkill": "Front End",
+      "inputValue": "Front",
+      "targetNorm": "front end",
+      "dropdownVisible": true,
+      "candidateCount": 5,
+      "candidates": [
+        "FR",
+        "Front Office",
+        "French",
+        "Mba Fresher",
+        ".NET Framework"
+      ],
+      "exactMatchFound": false,
+      "exactMatchText": null
+    },
+    {
+      "targetSkill": "Frontend Development",
+      "inputValue": "Front",
+      "targetNorm": "frontend development",
+      "dropdownVisible": true,
+      "candidateCount": 5,
+      "candidates": [
+        "FR",
+        "Front Office",
+        "French",
+        "Mba Fresher",
+        ".NET Framework"
+      ],
+      "exactMatchFound": false,
+      "exactMatchText": null
+    },
+    {
+      "targetSkill": "Web Development",
+      "inputValue": "Web D",
+      "targetNorm": "web development",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "Web Development",
+        "Web Designing",
+        "Web Debugging",
+        "Web Dispatcher",
+        "Web Dynpro Development",
+        "Web Development Life Cycle",
+        "Web Design and Development"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Web Development"
+    },
+    {
+      "targetSkill": "Mern Stack",
+      "inputValue": "Mern ",
+      "targetNorm": "mern stack",
+      "dropdownVisible": true,
+      "candidateCount": 3,
+      "candidates": [
+        "Mern",
+        "Mern Stack",
+        "Mern Full Stack"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Mern Stack"
+    },
+    {
+      "targetSkill": "Redux",
+      "inputValue": "Redux",
+      "targetNorm": "redux",
+      "dropdownVisible": true,
+      "candidateCount": 5,
+      "candidates": [
+        "Redux",
+        "Redux Js",
+        "Redux Library",
+        "Redux Framework",
+        "Redux State Management"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Redux"
+    },
+    {
+      "targetSkill": "Nextjs",
+      "inputValue": "Nextj",
+      "targetNorm": "nextjs",
+      "dropdownVisible": true,
+      "candidateCount": 1,
+      "candidates": [
+        "Nextjs"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Nextjs"
+    },
+    {
+      "targetSkill": "Hooks",
+      "inputValue": "Hooks",
+      "targetNorm": "hooks",
+      "dropdownVisible": true,
+      "candidateCount": 1,
+      "candidates": [
+        "Hooks"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Hooks"
+    },
+    {
+      "targetSkill": "Npm",
+      "inputValue": "Npm",
+      "targetNorm": "npm",
+      "dropdownVisible": true,
+      "candidateCount": 2,
+      "candidates": [
+        "Npm",
+        "Solarwinds Npm"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Npm"
+    },
+    {
+      "targetSkill": "DOM",
+      "inputValue": "DOM",
+      "targetNorm": "dom",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        "DOM",
+        "Domestic BPO",
+        "Domestic",
+        "Domestic Calling",
+        "Domestic Ticketing",
+        "Domain Controller",
+        "Domain Server"
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "DOM"
+    }
+  ]
+}

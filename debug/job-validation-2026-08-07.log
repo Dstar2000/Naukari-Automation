@@ -1,0 +1,12 @@
+[2026-08-07T14:19:43.240Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 12ms
+[2026-08-07T14:19:43.259Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 1ms
+[2026-08-07T14:19:44.253Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: JOB_EXPIRED | Cached: true | Duration: 9ms
+[2026-08-07T14:19:49.417Z] Original: "https://www.naukri.com/job-old-99" | Final: "https://www.naukri.com/job-old-99" | Status: JOB_REMOVED | Cached: false | Duration: 4435ms
+[2026-08-07T14:20:13.044Z] Original: "https://www.naukri.com/job-listings-old-99" | Final: "https://www.naukri.com/job-listings-old-99" | Status: LIVE | Cached: true | Duration: 0ms
+[2026-08-07T14:20:14.622Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 11ms
+[2026-08-07T14:20:14.636Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 0ms
+[2026-08-07T14:20:15.149Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: JOB_EXPIRED | Cached: true | Duration: 9ms
+[2026-08-07T14:23:25.887Z] Original: "https://www.naukri.com/job-listings-old-99" | Final: "https://www.naukri.com/job-listings-old-99" | Status: LIVE | Cached: true | Duration: 1ms
+[2026-08-07T14:23:27.815Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 10ms
+[2026-08-07T14:23:27.832Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 1ms
+[2026-08-07T14:23:28.264Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: JOB_EXPIRED | Cached: true | Duration: 11ms

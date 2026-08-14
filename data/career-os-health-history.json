@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "snapshotId": "health_1786347312462_1",
+      "generatedAt": "2026-08-10T07:35:12.461Z",
+      "overallStatus": "DEGRADED",
+      "componentStatuses": {
+        "process": "HEALTHY",
+        "scheduler": "HEALTHY",
+        "telegram": "HEALTHY",
+        "discovery": "HEALTHY",
+        "application": "DEGRADED",
+        "recovery": "HEALTHY",
+        "decision": "HEALTHY",
+        "digest": "HEALTHY",
+        "dataIntegrity": "HEALTHY"
+      },
+      "metrics": {
+        "jobsDiscovered": 60,
+        "uniqueJobs": 60,
+        "duplicateJobs": 0,
+        "applicationsTracked": 7,
+        "applicationsSubmitted": 5,
+        "applicationsEngaged": 7,
+        "pendingFollowups": 0,
+        "pendingDecisionActions": 0,
+        "executedDecisionActions": 1,
+        "ambiguousExecutionActions": 0,
+        "schedulerCount": 3,
+        "configuredSchedulerCount": 3,
+        "digestLastSentDate": "NONE",
+        "decisionDigestLastSentDate": "NONE"
+      },
+      "alertSummary": {
+        "info": 0,
+        "low": 4,
+        "medium": 0,
+        "high": 0,
+        "critical": 0
+      },
+      "alerts": [
+        {
+          "code": "APPLICATION_LINEAGE_MISMATCH",
+          "severity": "LOW",
+          "component": "Application"
+        },
+        {
+          "code": "APPLICATION_LINEAGE_MISMATCH",
+          "severity": "LOW",
+          "component": "Application"
+        },
+        {
+          "code": "APPLICATION_LINEAGE_MISMATCH",
+          "severity": "LOW",
+          "component": "Application"
+        },
+        {
+          "code": "APPLICATION_LINEAGE_MISMATCH",
+          "severity": "LOW",
+          "component": "Application"
+        }
+      ],
+      "healthFingerprint": "6844aa3c77d6f072346e3bfefe686a7c4b8497eb9f79982ba042702710770e5c"
+    }
+  ]
+}

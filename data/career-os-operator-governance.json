@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0.0",
+  "governanceStatus": "ACTIVE",
+  "operatorMode": "NORMAL",
+  "automationPolicy": {
+    "schedulersEnabled": true,
+    "autonomousSubmissionsAllowed": false
+  },
+  "incidentPolicy": {
+    "automatedIncidentResponseEnabled": true,
+    "incidentCooldownMinutes": 15
+  },
+  "notificationPolicy": {
+    "telegramNotificationsEnabled": true,
+    "dailyDigestEnabled": true
+  },
+  "responsePolicy": {
+    "maxAutomatedRetries": 0,
+    "allowAmbiguousAutoRecovery": false
+  },
+  "lastChangedAt": "2026-08-10T12:00:00.000Z",
+  "lastChangedBy": "SYSTEM_INITIALIZER",
+  "changeCount": 0,
+  "fingerprint": "initial_governance_fingerprint"
+}

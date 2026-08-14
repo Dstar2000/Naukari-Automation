@@ -1,0 +1,507 @@
+{
+  "timestamp": "2026-08-13T14:53:09.069Z",
+  "domState": {
+    "sugCompHTML": "<div class=\"sugComp\"><div class=\"\"><div class=\"suggest keySkillSuggCont\"><div class=\"sWrap\"><div class=\"chipsContainer\"><div class=\"waves-effect chip\" data-id=\"Github_github\" title=\"Github\"> <span class=\"tagTxt\">Github</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Tailwind CSS_tailwind css\" title=\"Tailwind CSS\"> <span class=\"tagTxt\">Tailwind CSS</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Rest API Integration_rest api integration\" title=\"Rest API Integration\"> <span class=\"tagTxt\">Rest API Integration</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Bootstrap_bootstrap\" title=\"Bootstrap\"> <span class=\"tagTxt\">Bootstrap</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"React.js_react.js\" title=\"React.js\"> <span class=\"tagTxt\">React.js</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"MySQL_mysql\" title=\"MySQL\"> <span class=\"tagTxt\">MySQL</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Javascript_javascript\" title=\"Javascript\"> <span class=\"tagTxt\">Javascript</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"CSS_css\" title=\"CSS\"> <span class=\"tagTxt\">CSS</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"HTML_html\" title=\"HTML\"> <span class=\"tagTxt\">HTML</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Web Technologies_web technologies\" title=\"Web Technologies\"> <span class=\"tagTxt\">Web Technologies</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Backend_backend\" title=\"Backend\"> <span class=\"tagTxt\">Backend</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Express_express\" title=\"Express\"> <span class=\"tagTxt\">Express</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Node.Js_node.js\" title=\"Node.Js\"> <span class=\"tagTxt\">Node.Js</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Node_node\" title=\"Node\"> <span class=\"tagTxt\">Node</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"MongoDB_mongodb\" title=\"MongoDB\"> <span class=\"tagTxt\">MongoDB</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Mern_mern\" title=\"Mern\"> <span class=\"tagTxt\">Mern</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Full Stack_full stack\" title=\"Full Stack\"> <span class=\"tagTxt\">Full Stack</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Front End_front end\" title=\"Front End\"> <span class=\"tagTxt\">Front End</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Frontend Development_frontend development\" title=\"Frontend Development\"> <span class=\"tagTxt\">Frontend Development</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Web Development_web development\" title=\"Web Development\"> <span class=\"tagTxt\">Web Development</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Mern Stack_mern stack\" title=\"Mern Stack\"> <span class=\"tagTxt\">Mern Stack</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Redux_redux\" title=\"Redux\"> <span class=\"tagTxt\">Redux</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Nextjs_nextjs\" title=\"Nextjs\"> <span class=\"tagTxt\">Nextjs</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Hooks_hooks\" title=\"Hooks\"> <span class=\"tagTxt\">Hooks</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Npm_npm\" title=\"Npm\"> <span class=\"tagTxt\">Npm</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"DOM_dom\" title=\"DOM\"> <span class=\"tagTxt\">DOM</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div><div class=\"waves-effect chip\" data-id=\"Jsx_jsx\" title=\"Jsx\"> <span class=\"tagTxt\">Jsx</span><a class=\"material-icons close\" href=\"javascript:void(0)\">Cross</a></div></div><div class=\"inpWrap\"><input type=\"text\" placeholder=\"Add skills\" class=\"sugInp\" name=\"suggestor\" id=\"keySkillSugg\" maxlength=\"5\" autocomplete=\"off\" trackparams=\"{&quot;id&quot;:&quot;keySkillSugg&quot;,&quot;sourceId&quot;:&quot;&quot;,&quot;platform&quot;:&quot;&quot;,&quot;appId&quot;:&quot;105&quot;,&quot;trackingSrc&quot;:&quot;&quot;}\"></div></div><div class=\"sugCont\" id=\"sugDrp_keySkillSugg\"><ul class=\"Sdrop\"></ul></div></div><input type=\"hidden\" id=\"chipsVal\" rel=\"custom:1000\" value=\"Github,Tailwind CSS,Rest API Integration,Bootstrap,React.js,MySQL,Javascript,CSS,HTML,Web Technologies,Backend,Express,Node.Js,Node,MongoDB,Mern,Full Stack,Front End,Frontend Development,Web Development,Mern Stack,Redux,Nextjs,Hooks,Npm,DOM,Jsx\"><div class=\"inputInfo\"><span class=\"erLbl\" id=\"chipsVal_err\"></span></div></div></div>",
+    "chips": [
+      {
+        "text": "Github",
+        "fullText": "GithubCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Tailwind CSS",
+        "fullText": "Tailwind CSSCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Rest API Integration",
+        "fullText": "Rest API IntegrationCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Bootstrap",
+        "fullText": "BootstrapCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "React.js",
+        "fullText": "React.jsCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "MySQL",
+        "fullText": "MySQLCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Javascript",
+        "fullText": "JavascriptCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "CSS",
+        "fullText": "CSSCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "HTML",
+        "fullText": "HTMLCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Web Technologies",
+        "fullText": "Web TechnologiesCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Backend",
+        "fullText": "BackendCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Express",
+        "fullText": "ExpressCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Node.Js",
+        "fullText": "Node.JsCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Node",
+        "fullText": "NodeCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "MongoDB",
+        "fullText": "MongoDBCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Mern",
+        "fullText": "MernCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Full Stack",
+        "fullText": "Full StackCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Front End",
+        "fullText": "Front EndCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Frontend Development",
+        "fullText": "Frontend DevelopmentCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Web Development",
+        "fullText": "Web DevelopmentCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Mern Stack",
+        "fullText": "Mern StackCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Redux",
+        "fullText": "ReduxCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Nextjs",
+        "fullText": "NextjsCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Hooks",
+        "fullText": "HooksCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Npm",
+        "fullText": "NpmCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "DOM",
+        "fullText": "DOMCross",
+        "className": "waves-effect chip"
+      },
+      {
+        "text": "Jsx",
+        "fullText": "JsxCross",
+        "className": "waves-effect chip"
+      }
+    ],
+    "nonChips": [
+      {
+        "className": "tagTxt",
+        "textContent": "Github"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Tailwind CSS"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Rest API Integration"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Bootstrap"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "React.js"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "MySQL"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Javascript"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "CSS"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "HTML"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Web Technologies"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Backend"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Express"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Node.Js"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Node"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "MongoDB"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Mern"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Full Stack"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Front End"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Frontend Development"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Web Development"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Mern Stack"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Redux"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Nextjs"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Hooks"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Npm"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "DOM"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Jsx"
+      },
+      {
+        "className": "erLbl",
+        "textContent": ""
+      }
+    ],
+    "allSpans": [
+      {
+        "className": "tagTxt",
+        "textContent": "Github"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Tailwind CSS"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Rest API Integration"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Bootstrap"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "React.js"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "MySQL"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Javascript"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "CSS"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "HTML"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Web Technologies"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Backend"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Express"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Node.Js"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Node"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "MongoDB"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Mern"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Full Stack"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Front End"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Frontend Development"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Web Development"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Mern Stack"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Redux"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Nextjs"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Hooks"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Npm"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "DOM"
+      },
+      {
+        "className": "tagTxt",
+        "textContent": "Jsx"
+      },
+      {
+        "className": "erLbl",
+        "textContent": ""
+      }
+    ],
+    "inputState": {
+      "id": "keySkillSugg",
+      "className": "sugInp",
+      "placeholder": "Add skills",
+      "value": ""
+    }
+  },
+  "testResults": [
+    {
+      "targetSkill": "Jsx",
+      "targetNorm": "jsx",
+      "dropdownVisible": true,
+      "candidateCount": 1,
+      "candidates": [
+        {
+          "text": "Jsx",
+          "className": "sugTouple"
+        }
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Jsx"
+    },
+    {
+      "targetSkill": "Rest API Integration",
+      "targetNorm": "rest api integration",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        {
+          "text": "Rest",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Restaurant",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Restaurant Management",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Restoration",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Restore",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Restriction Digestion",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Restructuring",
+          "className": "sugTouple"
+        }
+      ],
+      "exactMatchFound": false,
+      "exactMatchText": null
+    },
+    {
+      "targetSkill": "Node.js",
+      "targetNorm": "node.js",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        {
+          "text": "Node.js",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Node B",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Node-RED",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Node",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Node API",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Node Express",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Nodejs Server",
+          "className": "sugTouple"
+        }
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "Node.js"
+    },
+    {
+      "targetSkill": "React.js",
+      "targetNorm": "react.js",
+      "dropdownVisible": true,
+      "candidateCount": 7,
+      "candidates": [
+        {
+          "text": "React.js",
+          "className": "sugTouple"
+        },
+        {
+          "text": "React Native",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Reactors",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Reaction",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Reactis",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Reactive Programming",
+          "className": "sugTouple"
+        },
+        {
+          "text": "Reactor Design",
+          "className": "sugTouple"
+        }
+      ],
+      "exactMatchFound": true,
+      "exactMatchText": "React.js"
+    }
+  ]
+}

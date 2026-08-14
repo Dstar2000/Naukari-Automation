@@ -1,0 +1,22 @@
+[
+  {
+    "applicationId": "57f713042c",
+    "jobId": "57f713042c",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-developer-vbeyond-corporation-bengaluru-2-to-5-years-070826019309",
+    "company": "Vbeyond Corporation",
+    "role": "Mern Stack Developer",
+    "lastReminderAt": "2026-08-10T06:16:54.295Z",
+    "reminderCount": 1,
+    "lastAction": "REMINDER_SENT"
+  },
+  {
+    "applicationId": "771e1e6422",
+    "jobId": "771e1e6422",
+    "jobUrl": "https://www.naukri.com/job-listings-software-developer-mern-stack-jobaaj-1-to-3-years-TEST001",
+    "company": "jobaaj",
+    "role": "Software Developer MERN Stack",
+    "lastReminderAt": "2026-08-13T11:10:38.473Z",
+    "reminderCount": 0,
+    "lastAction": "WAITING_RESPONSE"
+  }
+]

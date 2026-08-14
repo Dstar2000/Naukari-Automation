@@ -1,0 +1,84 @@
+[
+  {
+    "jobId": "test123",
+    "jobUrl": "https://www.naukri.com/job-listings-test-123",
+    "title": "Role",
+    "company": "Company",
+    "decision": "approved",
+    "timestamp": "2026-08-13T07:53:30.852Z"
+  },
+  {
+    "jobId": "b00c6b8697",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-developer-sixsigma-technosoft-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-1-to-5-years-121224502854",
+    "title": "MERN Stack Developer",
+    "company": "Sixsigma Technosoft",
+    "decision": "approved",
+    "timestamp": "2026-08-10T06:08:16.428Z",
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED",
+    "status": "EXTERNAL_APPLICATION_REQUIRED",
+    "reconciledAt": "2026-08-13T11:01:17.546Z"
+  },
+  {
+    "jobId": "57f713042c",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-developer-vbeyond-corporation-bengaluru-2-to-5-years-070826019309",
+    "title": "Mern Stack Developer",
+    "company": "Vbeyond Corporation",
+    "decision": "approved",
+    "timestamp": "2026-08-10T06:16:42.532Z",
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED",
+    "status": "EXTERNAL_APPLICATION_REQUIRED",
+    "reconciledAt": "2026-08-13T11:01:17.651Z"
+  },
+  {
+    "jobId": "1ad3e0d369",
+    "jobUrl": "https://www.naukri.com/job-listings-software-developer-mern-stack-jobaaj-com-hyderabad-pune-bengaluru-0-to-1-years-110826040389",
+    "title": "Software Developer MERN Stack",
+    "company": "jobaaj",
+    "decision": "approved_all",
+    "timestamp": "2026-08-13T07:22:50.337Z"
+  },
+  {
+    "jobId": "be6497dbdc",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-developer-the-glove-bengaluru-india-3-to-8-years-110826030677",
+    "title": "Mern Stack Developer",
+    "company": "The Glove",
+    "decision": "approved_all",
+    "timestamp": "2026-08-13T07:22:50.341Z",
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED",
+    "status": "EXTERNAL_APPLICATION_REQUIRED",
+    "reconciledAt": "2026-08-13T11:01:18.902Z"
+  },
+  {
+    "jobId": "374dac9a8c",
+    "jobUrl": "https://www.naukri.com/job-listings-react-js-node-js-developer-s-infosys-hyderabad-chennai-bengaluru-2-to-3-years-120826000299",
+    "title": "React JS + Node JS Developer-S",
+    "company": "Infosys",
+    "decision": "approved_all",
+    "timestamp": "2026-08-13T07:22:50.370Z",
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED",
+    "status": "EXTERNAL_APPLICATION_REQUIRED",
+    "reconciledAt": "2026-08-13T11:01:17.549Z"
+  },
+  {
+    "jobId": "abcf6c3be6",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-engineer-developers-nasugroup-bengaluru-0-to-3-years-120826926513",
+    "title": "MERN stack Engineer (Developers)",
+    "company": "Nasu Group",
+    "decision": "approved_all",
+    "timestamp": "2026-08-13T07:22:50.406Z",
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED",
+    "status": "EXTERNAL_APPLICATION_REQUIRED",
+    "reconciledAt": "2026-08-13T11:01:17.568Z"
+  },
+  {
+    "jobId": "c619750403",
+    "jobUrl": "https://www.naukri.com/job-listings-react-js-developer-inf-2-3-yrs-infosys-hyderabad-chennai-bengaluru-2-to-3-years-110826019037",
+    "title": "React JS Developer-INF (2-3)YRS",
+    "company": "Infosys",
+    "decision": "approved_all",
+    "timestamp": "2026-08-13T07:22:50.436Z",
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED",
+    "status": "EXTERNAL_APPLICATION_REQUIRED",
+    "reconciledAt": "2026-08-13T09:09:21.317Z"
+  }
+]

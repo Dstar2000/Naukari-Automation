@@ -1,0 +1,123 @@
+{
+  "personal": {
+    "name": "Dileep kumar",
+    "location": "Bangalore, INDIA",
+    "experience": "1 Year 5 Months",
+    "noticePeriod": "Available to join in 15 Days or less",
+    "dateOfBirth": "15 Aug 2000",
+    "gender": "male, Add marital status, more info",
+    "address": "Gulbarga",
+    "phoneVerified": true,
+    "emailVerified": true
+  },
+  "headline": "Full Stack Developer | React.js | Next.js | Node.js | Express.js | JavaScript",
+  "summary": "MERN Stack Developer | Full Stack Developer | B.E | React.js, Next.js, Node.js, Express.js, MongoDB | Immediate Joiner",
+  "skills": [
+    "Github",
+    "Tailwind CSS",
+    "Rest API Integration",
+    "Bootstrap",
+    "React.js",
+    "MySQL",
+    "Javascript",
+    "CSS",
+    "HTML",
+    "Web Technologies",
+    "Backend",
+    "Express",
+    "Node.Js",
+    "Node",
+    "MongoDB",
+    "Mern",
+    "Full Stack",
+    "Front End",
+    "Frontend Development",
+    "Web Development",
+    "Mern Stack",
+    "Redux",
+    "Nextjs",
+    "Hooks",
+    "Npm",
+    "DOM",
+    "Jsx"
+  ],
+  "skillsOrder": [
+    "Github",
+    "Tailwind CSS",
+    "Rest API Integration",
+    "Bootstrap",
+    "React.js",
+    "MySQL",
+    "Javascript",
+    "CSS",
+    "HTML",
+    "Web Technologies",
+    "Backend",
+    "Express",
+    "Node.Js",
+    "Node",
+    "MongoDB",
+    "Mern",
+    "Full Stack",
+    "Front End",
+    "Frontend Development",
+    "Web Development",
+    "Mern Stack",
+    "Redux",
+    "Nextjs",
+    "Hooks",
+    "Npm",
+    "DOM",
+    "Jsx"
+  ],
+  "itSkills": [],
+  "employment": [
+    {
+      "title": "Mern Full Stack Developer",
+      "company": "Softreey Technologies",
+      "duration": "Full-time",
+      "description": "Developed a complete Hospital Management System (HMIS) covering all major hospital modules including Admin, Doctor, Nurse, Reception, OPD/IPD, Pharmacy, Laboratory, Radiology, Ambulance, Inventory, Billing, HR, Accounts, Ward & Bed Management, and Reports. Implemented role-based acces... Read More"
+    },
+    {
+      "title": "Mern Full Stack Developer",
+      "company": "The Fortune Group",
+      "duration": "Full-time",
+      "description": "Developed FORTUNEONE CRM using MERN Stack (MongoDB, Express.js, React.js, Node.js) with Role-Based Access Control (RBAC) and hierarchical user management (Super Admin, Admin, Executive). Built FORTUNE LEAD-X Lead Management System with real-time dashboards, API integration, performanc... Read More"
+    }
+  ],
+  "projects": [],
+  "education": [],
+  "careerProfile": {
+    "currentIndustry": "Software Product",
+    "department": "Engineering - Software & QA",
+    "jobRole": "Full Stack Developer",
+    "preferredRoles": [
+      "Mern Stack Developer",
+      "React Js Developer",
+      "Junior Software Developer"
+    ],
+    "preferredLocations": [
+      "Bangalore Rural",
+      "Bangalore/Bengaluru"
+    ],
+    "expectedSalary": "₹ 2,00,000"
+  },
+  "resume": {
+    "fileName": "Dileep_Resume 1.pdf",
+    "uploadDate": "Uploaded on Aug 13, 2026",
+    "status": "UPLOADED"
+  },
+  "accomplishments": [],
+  "certifications": [],
+  "courses": [],
+  "publications": [],
+  "patents": [],
+  "socialLinks": [],
+  "diversityAndInclusion": null,
+  "careerBreak": null,
+  "militaryExperience": null,
+  "capturedAt": "2026-08-14T04:54:19.103Z",
+  "source": "naukri.com",
+  "profileFingerprint": "3b77293a112f450b486d25233addf39730cadff5382cce3273f65bc3f1b4bb33",
+  "snapshotVersion": 1
+}

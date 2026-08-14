@@ -1,0 +1,2251 @@
+{
+  "timestamp": "2026-08-13T12:31:47.073Z",
+  "url": "https://www.naukri.com/mnjuser/profile?action=modalOpen",
+  "inputs": [
+    {
+      "tag": "input",
+      "id": "",
+      "className": "suggestor-input ",
+      "name": "",
+      "type": "text",
+      "placeholder": "Enter keyword / designation / companies",
+      "value": "",
+      "ariaLabel": "Enter keyword, designation, or companies",
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "class": "suggestor-input ",
+        "type": "text",
+        "placeholder": "Enter keyword / designation / companies",
+        "tabindex": "-1",
+        "aria-label": "Enter keyword, designation, or companies",
+        "value": ""
+      }
+    },
+    {
+      "tag": "input",
+      "id": "experienceDD",
+      "className": "ddInput nonSearched",
+      "name": "experienceDD",
+      "type": "text",
+      "placeholder": "Select experience",
+      "value": "",
+      "ariaLabel": "Select experience",
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "text",
+        "name": "experienceDD",
+        "id": "experienceDD",
+        "spellcheck": "false",
+        "autocomplete": "off",
+        "title": "",
+        "placeholder": "Select experience",
+        "class": "ddInput nonSearched",
+        "aria-label": "Select experience",
+        "tabindex": "-1",
+        "value": ""
+      }
+    },
+    {
+      "tag": "input",
+      "id": "",
+      "className": "suggestor-input ",
+      "name": "",
+      "type": "text",
+      "placeholder": "Enter location",
+      "value": "",
+      "ariaLabel": "Enter location",
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "class": "suggestor-input ",
+        "type": "text",
+        "placeholder": "Enter location",
+        "tabindex": "-1",
+        "aria-label": "Enter location",
+        "value": ""
+      }
+    },
+    {
+      "tag": "input",
+      "id": "attachCV",
+      "className": "fileUpload waves-effect waves-light btn-large",
+      "name": "",
+      "type": "file",
+      "placeholder": "",
+      "value": "",
+      "ariaLabel": null,
+      "role": null,
+      "visible": true,
+      "attributes": {
+        "type": "file",
+        "id": "attachCV",
+        "class": "fileUpload waves-effect waves-light btn-large"
+      }
+    },
+    {
+      "tag": "input",
+      "id": "",
+      "className": "dummyUpload typ-14Bold",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "value": "Update resume",
+      "ariaLabel": null,
+      "role": null,
+      "visible": true,
+      "attributes": {
+        "type": "button",
+        "value": "Update resume",
+        "class": "dummyUpload typ-14Bold"
+      }
+    },
+    {
+      "tag": "input",
+      "id": "fileUpload",
+      "className": "fileUpload waves-effect waves-light btn-large",
+      "name": "Fjb56fnotys359[US6LMdmDSApbK6]",
+      "type": "file",
+      "placeholder": "",
+      "value": "",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "file",
+        "id": "fileUpload",
+        "name": "Fjb56fnotys359[US6LMdmDSApbK6]",
+        "class": "fileUpload waves-effect waves-light btn-large",
+        "title": " ",
+        "accept": "image/*"
+      }
+    },
+    {
+      "tag": "input",
+      "id": "ncUploaderPicUrl",
+      "className": "",
+      "name": "ncUploaderPicUrl",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "hidden",
+        "id": "ncUploaderPicUrl",
+        "name": "ncUploaderPicUrl",
+        "value": ""
+      }
+    },
+    {
+      "tag": "input",
+      "id": "",
+      "className": "btn-dark-ot",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "value": "Replace photo",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "button",
+        "value": "Replace photo",
+        "class": "btn-dark-ot"
+      }
+    },
+    {
+      "tag": "input",
+      "id": "x1",
+      "className": "",
+      "name": "x1",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "hidden",
+        "name": "x1",
+        "id": "x1",
+        "value": ""
+      }
+    },
+    {
+      "tag": "input",
+      "id": "y1",
+      "className": "",
+      "name": "y1",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "hidden",
+        "name": "y1",
+        "id": "y1",
+        "value": ""
+      }
+    },
+    {
+      "tag": "input",
+      "id": "x2",
+      "className": "",
+      "name": "x2",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "hidden",
+        "name": "x2",
+        "id": "x2",
+        "value": ""
+      }
+    },
+    {
+      "tag": "input",
+      "id": "y2",
+      "className": "",
+      "name": "y2",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "hidden",
+        "name": "y2",
+        "id": "y2",
+        "value": ""
+      }
+    },
+    {
+      "tag": "input",
+      "id": "",
+      "className": "btn greyBtn btnSpc no",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "value": "Cancel",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "button",
+        "value": "Cancel",
+        "class": "btn greyBtn btnSpc no"
+      }
+    },
+    {
+      "tag": "input",
+      "id": "",
+      "className": "btn btnSpc yes",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "value": "Save",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "button",
+        "value": "Save",
+        "class": "btn btnSpc yes"
+      }
+    },
+    {
+      "tag": "input",
+      "id": "keySkillSugg",
+      "className": "sugInp",
+      "name": "suggestor",
+      "type": "text",
+      "placeholder": "Add skills",
+      "value": "",
+      "ariaLabel": null,
+      "role": null,
+      "visible": true,
+      "attributes": {
+        "type": "text",
+        "placeholder": "Add skills",
+        "class": "sugInp",
+        "name": "suggestor",
+        "id": "keySkillSugg",
+        "maxlength": "5",
+        "autocomplete": "off",
+        "trackparams": "{\"id\":\"keySkillSugg\",\"sourceId\":\"\",\"platform\":\"\",\"appId\":\"105\",\"trackingSrc\":\"\"}"
+      }
+    },
+    {
+      "tag": "input",
+      "id": "chipsVal",
+      "className": "",
+      "name": "",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "Github,Tailwind CSS,Rest API Integration,Bootstrap,React.js,MySQL,Javascript,CSS,HTML,Web Technologies,Backend,Express,Node.Js,Node,MongoDB,Mern,Full Stack,Front End,Frontend Development,Web Development,Mern Stack,Redux,Nextjs,Hooks,Npm,DOM,Jsx",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "hidden",
+        "id": "chipsVal",
+        "rel": "custom:1000",
+        "value": "Github,Tailwind CSS,Rest API Integration,Bootstrap,React.js,MySQL,Javascript,CSS,HTML,Web Technologies,Backend,Express,Node.Js,Node,MongoDB,Mern,Full Stack,Front End,Frontend Development,Web Development,Mern Stack,Redux,Nextjs,Hooks,Npm,DOM,Jsx"
+      }
+    },
+    {
+      "tag": "input",
+      "id": "relatedCon",
+      "className": "",
+      "name": "",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "Flux,Babel,Virtual Dom,SSR,TS,YARN,Jest,Elastic Search,Handlebars.Js,CLI",
+      "ariaLabel": null,
+      "role": null,
+      "visible": false,
+      "attributes": {
+        "type": "hidden",
+        "value": "Flux,Babel,Virtual Dom,SSR,TS,YARN,Jest,Elastic Search,Handlebars.Js,CLI",
+        "id": "relatedCon"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "button",
+      "text": "",
+      "id": "",
+      "className": "nI-gNb-sb__expand",
+      "disabled": false,
+      "visible": true,
+      "attributes": {
+        "type": "button",
+        "class": "nI-gNb-sb__expand",
+        "aria-label": "Search jobs here"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "id": "",
+      "className": "nI-gNb-sb__icon-wrapper",
+      "disabled": false,
+      "visible": true,
+      "attributes": {
+        "type": "button",
+        "class": "nI-gNb-sb__icon-wrapper",
+        "aria-label": "Search",
+        "aria-hidden": "true",
+        "tabindex": "-1"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "6",
+      "id": "",
+      "className": "nI-gNb-ncr__icon-wrapper",
+      "disabled": false,
+      "visible": true,
+      "attributes": {
+        "type": "button",
+        "class": "nI-gNb-ncr__icon-wrapper",
+        "aria-label": "Notifications, 6 unread"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "2",
+      "id": "",
+      "className": "nI-gNb-drawer__icon",
+      "disabled": false,
+      "visible": true,
+      "attributes": {
+        "type": "button",
+        "class": "nI-gNb-drawer__icon",
+        "aria-label": "Open profile menu",
+        "aria-expanded": "false"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "Become a Pro",
+      "id": "",
+      "className": "pro-button",
+      "disabled": false,
+      "visible": true,
+      "attributes": {
+        "class": "pro-button"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "Download",
+      "id": "",
+      "className": "blue-text waves-effect waves-teal btn-flat",
+      "disabled": false,
+      "visible": false,
+      "attributes": {
+        "class": "blue-text waves-effect waves-teal btn-flat",
+        "data-ga-track": "spa-event|EditProfile|DownloadResume|Download",
+        "type": "submit"
+      }
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "className": "dummyUpload typ-14Bold",
+      "disabled": false,
+      "visible": true,
+      "attributes": {
+        "type": "button",
+        "value": "Update resume",
+        "class": "dummyUpload typ-14Bold"
+      }
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "className": "btn-dark-ot",
+      "disabled": false,
+      "visible": false,
+      "attributes": {
+        "type": "button",
+        "value": "Replace photo",
+        "class": "btn-dark-ot"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "Delete",
+      "id": "",
+      "className": "typ-14Bold delBtn",
+      "disabled": false,
+      "visible": false,
+      "attributes": {
+        "class": "typ-14Bold delBtn"
+      }
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "className": "btn greyBtn btnSpc no",
+      "disabled": false,
+      "visible": false,
+      "attributes": {
+        "type": "button",
+        "value": "Cancel",
+        "class": "btn greyBtn btnSpc no"
+      }
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "className": "btn btnSpc yes",
+      "disabled": false,
+      "visible": false,
+      "attributes": {
+        "type": "button",
+        "value": "Save",
+        "class": "btn btnSpc yes"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "Save photo",
+      "id": "submit",
+      "className": "btn-dark-ot save-photo",
+      "disabled": false,
+      "visible": false,
+      "attributes": {
+        "class": "btn-dark-ot save-photo",
+        "id": "submit"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "Delete",
+      "id": "",
+      "className": "btn-dark-ot",
+      "disabled": false,
+      "visible": false,
+      "attributes": {
+        "class": "btn-dark-ot"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "Delete",
+      "id": "",
+      "className": "btn-dark-ot",
+      "disabled": false,
+      "visible": false,
+      "attributes": {
+        "class": "btn-dark-ot"
+      }
+    },
+    {
+      "tag": "button",
+      "text": "Save",
+      "id": "saveKeySkills",
+      "className": "btn-dark-ot",
+      "disabled": false,
+      "visible": true,
+      "attributes": {
+        "class": "btn-dark-ot",
+        "type": "button",
+        "id": "saveKeySkills"
+      }
+    }
+  ],
+  "chipCount": 105,
+  "chipElements": [
+    {
+      "tag": "div",
+      "text": "100%",
+      "fullText": "100%",
+      "id": "",
+      "className": "user-percentage high",
+      "draggable": false,
+      "parentClass": "photoTrigger",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "user-percentage high"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "25% off",
+      "fullText": "25% off",
+      "id": "",
+      "className": "discount-tag",
+      "draggable": false,
+      "parentClass": "right-section",
+      "childClasses": [
+        ""
+      ],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "discount-tag"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Github",
+      "fullText": "Github",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Github"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Tailwind CSS",
+      "fullText": "Tailwind CSS",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Tailwind CSS"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Rest API Integration",
+      "fullText": "Rest API Integration",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Rest API Integration"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Bootstrap",
+      "fullText": "Bootstrap",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Bootstrap"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "React.js",
+      "fullText": "React.js",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "React.js"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "MySQL",
+      "fullText": "MySQL",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "MySQL"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Javascript",
+      "fullText": "Javascript",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Javascript"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "CSS",
+      "fullText": "CSS",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "CSS"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "HTML",
+      "fullText": "HTML",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "HTML"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Web Technologies",
+      "fullText": "Web Technologies",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Web Technologies"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Backend",
+      "fullText": "Backend",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Backend"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Express",
+      "fullText": "Express",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Express"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Node.Js",
+      "fullText": "Node.Js",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Node.Js"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Node",
+      "fullText": "Node",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Node"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "MongoDB",
+      "fullText": "MongoDB",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "MongoDB"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Mern",
+      "fullText": "Mern",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Mern"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Full Stack",
+      "fullText": "Full Stack",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Full Stack"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Front End",
+      "fullText": "Front End",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Front End"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Frontend Development",
+      "fullText": "Frontend Development",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Frontend Development"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Web Development",
+      "fullText": "Web Development",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Web Development"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Mern Stack",
+      "fullText": "Mern Stack",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Mern Stack"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Redux",
+      "fullText": "Redux",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Redux"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Nextjs",
+      "fullText": "Nextjs",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Nextjs"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Hooks",
+      "fullText": "Hooks",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Hooks"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Npm",
+      "fullText": "Npm",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Npm"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "DOM",
+      "fullText": "DOM",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "DOM"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Jsx",
+      "fullText": "Jsx",
+      "id": "",
+      "className": "chip typ-14Medium",
+      "draggable": false,
+      "parentClass": "prefill",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip typ-14Medium",
+        "title": "Jsx"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Solar powered Outomatic grain dryer",
+      "fullText": "Solar powered Outomatic grain dryer",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "col s12 item project-list",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "chip",
+        "data-prefillid": "3b353926558f8c6f59eeab68b3085514c74dbaeb45f40884",
+        "title": "Solar powered Outomatic grain dryer"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Github Tailwind CSS Rest API Integration Bootstrap React.js MySQL Javascript CSS HTML Web Technologies Backend Express Node.Js Node MongoDB Mern Full Stack Front End Frontend Development Web Development Mern Stack Redux Nextjs Hooks Npm DOM Jsx",
+      "fullText": "GithubCross Tailwind CSSCross Rest API IntegrationCross BootstrapCross React.jsCross MySQLCross JavascriptCross CSSCross HTMLCross Web TechnologiesCross BackendCross ExpressCross Node.JsCross NodeCross MongoDBCross MernCross Full StackCross Front EndCross Frontend DevelopmentCross Web DevelopmentCross Mern StackCross ReduxCross NextjsCross HooksCross NpmCross DOMCross JsxCross",
+      "id": "",
+      "className": "chipsContainer",
+      "draggable": false,
+      "parentClass": "sWrap",
+      "childClasses": [
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip",
+        "waves-effect chip"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chipsContainer"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Github",
+      "fullText": "GithubCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Github_github",
+        "title": "Github"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Github",
+      "fullText": "Github",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Tailwind CSS",
+      "fullText": "Tailwind CSSCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Tailwind CSS_tailwind css",
+        "title": "Tailwind CSS"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Tailwind CSS",
+      "fullText": "Tailwind CSS",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Rest API Integration",
+      "fullText": "Rest API IntegrationCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Rest API Integration_rest api integration",
+        "title": "Rest API Integration"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Rest API Integration",
+      "fullText": "Rest API Integration",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Bootstrap",
+      "fullText": "BootstrapCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Bootstrap_bootstrap",
+        "title": "Bootstrap"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Bootstrap",
+      "fullText": "Bootstrap",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "React.js",
+      "fullText": "React.jsCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "React.js_react.js",
+        "title": "React.js"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "React.js",
+      "fullText": "React.js",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "MySQL",
+      "fullText": "MySQLCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "MySQL_mysql",
+        "title": "MySQL"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "MySQL",
+      "fullText": "MySQL",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Javascript",
+      "fullText": "JavascriptCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Javascript_javascript",
+        "title": "Javascript"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Javascript",
+      "fullText": "Javascript",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "CSS",
+      "fullText": "CSSCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "CSS_css",
+        "title": "CSS"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "CSS",
+      "fullText": "CSS",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "HTML",
+      "fullText": "HTMLCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "HTML_html",
+        "title": "HTML"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "HTML",
+      "fullText": "HTML",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Web Technologies",
+      "fullText": "Web TechnologiesCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Web Technologies_web technologies",
+        "title": "Web Technologies"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Web Technologies",
+      "fullText": "Web Technologies",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Backend",
+      "fullText": "BackendCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Backend_backend",
+        "title": "Backend"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Backend",
+      "fullText": "Backend",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Express",
+      "fullText": "ExpressCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Express_express",
+        "title": "Express"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Express",
+      "fullText": "Express",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Node.Js",
+      "fullText": "Node.JsCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Node.Js_node.js",
+        "title": "Node.Js"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Node.Js",
+      "fullText": "Node.Js",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Node",
+      "fullText": "NodeCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Node_node",
+        "title": "Node"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Node",
+      "fullText": "Node",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "MongoDB",
+      "fullText": "MongoDBCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "MongoDB_mongodb",
+        "title": "MongoDB"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "MongoDB",
+      "fullText": "MongoDB",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Mern",
+      "fullText": "MernCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Mern_mern",
+        "title": "Mern"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Mern",
+      "fullText": "Mern",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Full Stack",
+      "fullText": "Full StackCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Full Stack_full stack",
+        "title": "Full Stack"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Full Stack",
+      "fullText": "Full Stack",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Front End",
+      "fullText": "Front EndCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Front End_front end",
+        "title": "Front End"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Front End",
+      "fullText": "Front End",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Frontend Development",
+      "fullText": "Frontend DevelopmentCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Frontend Development_frontend development",
+        "title": "Frontend Development"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Frontend Development",
+      "fullText": "Frontend Development",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Web Development",
+      "fullText": "Web DevelopmentCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Web Development_web development",
+        "title": "Web Development"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Web Development",
+      "fullText": "Web Development",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Mern Stack",
+      "fullText": "Mern StackCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Mern Stack_mern stack",
+        "title": "Mern Stack"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Mern Stack",
+      "fullText": "Mern Stack",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Redux",
+      "fullText": "ReduxCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Redux_redux",
+        "title": "Redux"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Redux",
+      "fullText": "Redux",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Nextjs",
+      "fullText": "NextjsCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Nextjs_nextjs",
+        "title": "Nextjs"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Nextjs",
+      "fullText": "Nextjs",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Hooks",
+      "fullText": "HooksCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Hooks_hooks",
+        "title": "Hooks"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Hooks",
+      "fullText": "Hooks",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Npm",
+      "fullText": "NpmCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Npm_npm",
+        "title": "Npm"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Npm",
+      "fullText": "Npm",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "DOM",
+      "fullText": "DOMCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "DOM_dom",
+        "title": "DOM"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "DOM",
+      "fullText": "DOM",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Jsx",
+      "fullText": "JsxCross",
+      "id": "",
+      "className": "waves-effect chip",
+      "draggable": false,
+      "parentClass": "chipsContainer",
+      "childClasses": [
+        "tagTxt",
+        "material-icons close"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "waves-effect chip",
+        "data-id": "Jsx_jsx",
+        "title": "Jsx"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Jsx",
+      "fullText": "Jsx",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "waves-effect chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Fluxplus",
+      "fullText": "Fluxplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "Flux_flux",
+        "title": "Flux"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Flux",
+      "fullText": "Flux",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Babelplus",
+      "fullText": "Babelplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "Babel_babel",
+        "title": "Babel"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Babel",
+      "fullText": "Babel",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Virtual Domplus",
+      "fullText": "Virtual Domplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "Virtual Dom_virtual dom",
+        "title": "Virtual Dom"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Virtual Dom",
+      "fullText": "Virtual Dom",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "SSRplus",
+      "fullText": "SSRplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "SSR_ssr",
+        "title": "SSR"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "SSR",
+      "fullText": "SSR",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "TSplus",
+      "fullText": "TSplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "TS_ts",
+        "title": "TS"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "TS",
+      "fullText": "TS",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "YARNplus",
+      "fullText": "YARNplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "YARN_yarn",
+        "title": "YARN"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "YARN",
+      "fullText": "YARN",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Jestplus",
+      "fullText": "Jestplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "Jest_jest",
+        "title": "Jest"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Jest",
+      "fullText": "Jest",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Elastic Searchplus",
+      "fullText": "Elastic Searchplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "Elastic Search_elastic search",
+        "title": "Elastic Search"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Elastic Search",
+      "fullText": "Elastic Search",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "Handlebars.Jsplus",
+      "fullText": "Handlebars.Jsplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "Handlebars.Js_handlebars.js",
+        "title": "Handlebars.Js"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "Handlebars.Js",
+      "fullText": "Handlebars.Js",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    },
+    {
+      "tag": "div",
+      "text": "CLIplus",
+      "fullText": "CLIplus",
+      "id": "",
+      "className": "chip",
+      "draggable": false,
+      "parentClass": "row suggChips",
+      "childClasses": [
+        "tagTxt",
+        "material-icons add"
+      ],
+      "removeButtonSelector": "tagTxt",
+      "attributes": {
+        "class": "chip",
+        "data-id": "CLI_cli",
+        "title": "CLI"
+      }
+    },
+    {
+      "tag": "span",
+      "text": "CLI",
+      "fullText": "CLI",
+      "id": "",
+      "className": "tagTxt",
+      "draggable": false,
+      "parentClass": "chip",
+      "childClasses": [],
+      "removeButtonSelector": null,
+      "attributes": {
+        "class": "tagTxt"
+      }
+    }
+  ],
+  "containers": [
+    {
+      "tag": "form",
+      "id": "",
+      "className": "download",
+      "childCount": 1
+    },
+    {
+      "tag": "div",
+      "id": "lazyKeySkills",
+      "className": "keySkills",
+      "childCount": 1
+    },
+    {
+      "tag": "form",
+      "id": "",
+      "className": "col s12 lbpadding",
+      "childCount": 4
+    }
+  ]
+}

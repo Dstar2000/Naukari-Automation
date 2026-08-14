@@ -1,0 +1,19 @@
+[2026-08-08T06:43:00.688Z] Original: "https://www.naukri.com/job-listings-old-99" | Final: "https://www.naukri.com/job-listings-old-99" | Status: LIVE | Cached: true | Duration: 1ms
+[2026-08-08T06:43:03.763Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 40ms
+[2026-08-08T06:43:03.804Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 0ms
+[2026-08-08T06:43:04.279Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: JOB_EXPIRED | Cached: true | Duration: 21ms
+[2026-08-08T09:50:18.950Z] Original: "https://www.naukri.com/job-listings-old-99" | Final: "https://www.naukri.com/job-listings-old-99" | Status: LIVE | Cached: true | Duration: 1ms
+[2026-08-08T09:50:23.019Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 25ms
+[2026-08-08T09:50:44.743Z] Original: "https://www.naukri.com/job-listings-old-99" | Final: "https://www.naukri.com/job-listings-old-99" | Status: LIVE | Cached: true | Duration: 1ms
+[2026-08-08T09:50:46.756Z] Original: "https://www.naukri.com/job-listings-expired-12345" | Final: "https://www.naukri.com/mnjuser/homepage" | Status: JOB_EXPIRED | Cached: false | Duration: 22929ms
+[2026-08-08T09:50:49.808Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 23ms
+[2026-08-08T09:51:12.373Z] Original: "https://www.naukri.com/job-listings-expired-12345" | Final: "https://www.naukri.com/mnjuser/homepage" | Status: JOB_EXPIRED | Cached: false | Duration: 21561ms
+[2026-08-08T09:51:17.179Z] Original: "https://www.naukri.com/job-listings-flw-test-123" | Final: "https://www.naukri.com/job-listings-flw-test-123" | Status: LIVE | Cached: true | Duration: 23ms
+[2026-08-08T09:51:23.904Z] Original: "https://www.naukri.com/job-listings-expired-12345" | Final: "https://www.naukri.com/mnjuser/homepage" | Status: JOB_EXPIRED | Cached: false | Duration: 5453ms
+[2026-08-08T09:51:25.549Z] Original: "https://www.naukri.com/job-listings-old-99" | Final: "https://www.naukri.com/job-listings-old-99" | Status: LIVE | Cached: true | Duration: 1ms
+[2026-08-08T09:58:42.738Z] JOB_VALIDATION jobId=N/A applicationId=N/A company="" role="" originalUrl="https://www.naukri.com/job-listings-expired-123" finalUrl="https://www.naukri.com/mnjuser/homepage" detectedCompany="" detectedRole="Home | Mynaukri" status=JOB_EXPIRED reason="DOM_MISSING_JOB_DETAIL_CONTENT" durationMs=7903
+[2026-08-08T09:59:19.591Z] JOB_VALIDATION jobId=0693c8054d applicationId=intel_test_123 company="Intel Company" role="Full Stack Engineer" originalUrl="https://www.naukri.com/job-listings-old-99" finalUrl="https://www.naukri.com/job-listings-old-99" detectedCompany="" detectedRole="" status=VALIDATION_FAILED reason="PLAYWRIGHT_NAVIGATION_ERROR: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.naukri.com/job-listings-old-99", waiting until "domcontentloaded"[22m
+" durationMs=32450
+[2026-08-08T10:00:02.646Z] JOB_VALIDATION jobId=N/A applicationId=N/A company="" role="" originalUrl="https://www.naukri.com/job-listings-expired-123" finalUrl="https://www.naukri.com/mnjuser/homepage" detectedCompany="TVS Credit Services Ltd" detectedRole="Home | Mynaukri" status=JOB_EXPIRED reason="DOM_MISSING_JOB_DETAIL_CONTENT" durationMs=5464

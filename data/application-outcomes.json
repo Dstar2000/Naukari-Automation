@@ -1,0 +1,3520 @@
+[
+  {
+    "applicationId": "test_ext_456",
+    "company": "External Company",
+    "role": "Backend Engineer",
+    "jobUrl": "https://www.naukri.com/job-listings-external-dev-456",
+    "currentStatus": "MANUAL_REQUIRED",
+    "status": "MANUAL_REQUIRED",
+    "updatedAt": "2026-08-13T11:10:40.384Z",
+    "notes": "EXTERNAL_APPLICATION",
+    "history": [
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T05:52:04.391Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T05:55:13.868Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T05:55:59.895Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:01:24.474Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:04:37.910Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:08:40.989Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:12:09.601Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:17:17.220Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:24:21.770Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:25:58.196Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:27:57.491Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:29:22.250Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:31:21.332Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:33:08.471Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:35:04.329Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:37:34.439Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:38:14.904Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:42:30.226Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:43:34.536Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:46:05.887Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:48:29.826Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:49:06.399Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:49:41.651Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:50:03.028Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:54:07.578Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:54:27.526Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:54:45.065Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T06:57:29.422Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:00:41.773Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:01:09.804Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:01:34.836Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:01:54.326Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:02:13.301Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:06:11.301Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:08:29.311Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:08:50.053Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:10:38.121Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:15:32.189Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:15:59.117Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:16:25.970Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:35:56.295Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:47:32.966Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T07:49:16.784Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:17:47.624Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:29:34.470Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:31:03.058Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:36:11.152Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:37:30.373Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:38:52.691Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:48:14.816Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:49:23.357Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:50:41.913Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T11:51:59.228Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T12:13:19.108Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T12:14:32.651Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T12:29:10.193Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-10T12:35:00.103Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T06:03:26.491Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T06:04:00.557Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T06:04:33.478Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T06:05:27.246Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T06:06:30.306Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:00:40.327Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:02:43.702Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:04:43.602Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:16:42.409Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:26:49.670Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:28:12.737Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:36:51.334Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:44:05.127Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:50:13.374Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T07:56:56.200Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T08:04:18.971Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T08:05:07.653Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T08:06:53.314Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T10:04:52.322Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T10:12:10.743Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T10:13:00.958Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-11T10:17:40.530Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T07:32:20.860Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T07:37:38.344Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T07:38:05.764Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T07:39:27.190Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T07:39:54.454Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T07:53:33.628Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T07:56:18.523Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T07:58:51.780Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:06:29.213Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:14:28.199Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:15:05.363Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:15:39.804Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:20:14.904Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:47:11.505Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:53:02.704Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:53:53.456Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:58:24.848Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:26.027Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:11:04.112Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:18.019Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:21.891Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:30.955Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:22.843Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:29.627Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:56.489Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:43.564Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:14.524Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:33.876Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:55.772Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:43.720Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:31.307Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:26.362Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:51.299Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:52.557Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:12.184Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:34.518Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:43.109Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:49:57.789Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:49.434Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:05.235Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:40.244Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:31.384Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:26.272Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:39.346Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:03.586Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:08:59.654Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:46.691Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:24:57.067Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:43:59.715Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:23.515Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:28.782Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:36.836Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:18.146Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:10:40.384Z"
+      }
+    ]
+  },
+  {
+    "applicationId": "test_easy_123",
+    "company": "Easy Company",
+    "role": "Full Stack Developer",
+    "jobUrl": "https://www.naukri.com/job-listings-easy-dev-123",
+    "currentStatus": "SUBMITTED",
+    "status": "SUBMITTED",
+    "updatedAt": "2026-08-13T11:10:40.540Z",
+    "notes": "User confirmed via Telegram",
+    "history": [
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T05:52:04.480Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T05:52:04.531Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T05:55:13.967Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T05:55:14.025Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T05:56:00.033Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T05:56:00.085Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:01:24.568Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:01:24.623Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:04:38.011Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:04:38.074Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:08:41.084Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:08:41.138Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:12:09.692Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:12:09.743Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:17:17.324Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:17:17.377Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:24:21.812Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:24:21.841Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:25:58.243Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:25:58.267Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:27:57.534Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:27:57.558Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:29:22.291Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:29:22.315Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:31:21.380Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:31:21.404Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:33:08.515Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:33:08.538Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:35:04.373Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:35:04.395Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:37:34.482Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:37:34.504Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:38:14.944Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:38:14.971Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:42:30.275Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:42:30.301Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:43:34.574Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:43:34.596Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:46:05.932Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:46:05.955Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:48:29.873Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:48:29.896Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:49:06.444Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:49:06.467Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:49:41.694Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:49:41.718Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:50:03.065Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:50:03.088Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:54:07.617Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:54:07.639Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:54:27.563Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:54:27.586Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:54:45.101Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:54:45.124Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T06:57:29.458Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:57:29.480Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:00:41.809Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:00:41.839Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:01:09.859Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:01:09.882Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:01:34.877Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:01:34.900Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:01:54.363Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:01:54.392Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:02:13.338Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:02:13.362Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:06:11.339Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:06:11.362Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:08:29.359Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:08:29.381Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:08:50.088Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:08:50.110Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:10:38.166Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:10:38.188Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:15:32.231Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:15:32.253Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:15:59.163Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:15:59.188Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:16:26.008Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:16:26.032Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:35:56.376Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:35:56.423Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:47:33.089Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:47:33.147Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T07:49:16.876Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:49:16.928Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:17:47.719Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:17:47.772Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:29:34.564Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:29:34.618Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:31:03.197Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:31:03.251Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:36:11.246Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:36:11.302Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:37:30.467Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:37:30.522Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:38:52.843Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:38:52.898Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:48:14.954Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:48:15.020Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:49:23.464Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:49:23.522Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:50:41.998Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:50:42.065Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T11:51:59.349Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:51:59.408Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T12:13:19.228Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T12:13:19.296Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T12:14:32.768Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T12:14:32.857Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T12:29:10.288Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T12:29:10.342Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-10T12:35:00.224Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T12:35:00.307Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T06:03:26.570Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:03:26.659Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T06:04:00.662Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:04:00.729Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T06:04:33.561Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:04:33.605Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T06:05:27.345Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:05:27.395Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T06:06:30.385Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:06:30.434Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:00:40.431Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:00:40.479Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:02:43.784Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:02:43.833Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:04:43.694Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:04:43.749Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:16:42.506Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:16:42.569Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:26:49.798Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:26:49.858Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:28:12.869Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:28:12.925Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:36:51.471Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:36:51.530Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:44:05.272Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:44:05.393Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:50:13.492Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:50:13.555Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T07:56:56.343Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:56:56.423Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T08:04:19.111Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T08:04:19.177Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T08:05:07.780Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T08:05:07.841Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T08:06:53.483Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T08:06:53.534Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T10:04:52.435Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T10:04:52.492Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T10:12:10.854Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T10:12:10.926Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T10:13:01.077Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T10:13:01.147Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-11T10:17:40.641Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T10:17:40.703Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:32:20.966Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:32:21.030Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:37:38.453Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:37:38.508Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:38:05.865Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:38:05.922Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:39:27.289Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:39:27.385Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:39:54.562Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:39:54.618Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:53:33.730Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:53:33.792Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:56:18.643Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:56:18.709Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:58:51.889Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:58:51.945Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:06:29.334Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:06:29.413Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:14:28.351Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:14:28.427Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:15:05.530Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:15:05.604Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:15:39.960Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:15:40.063Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:20:15.034Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:20:15.100Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:47:11.603Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:47:11.713Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:53:02.799Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:53:02.863Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:53:53.551Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:53:53.603Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:58:24.963Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:58:25.025Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:10:26.146Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:10:26.210Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:11:04.218Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:11:04.278Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:16:18.123Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:16:18.180Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:17:21.998Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:17:22.072Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:20:31.062Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:20:31.129Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:23:22.891Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:23:22.921Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:25:29.669Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:25:29.701Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:25:56.542Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:25:56.568Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:26:43.605Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:26:43.630Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:27:14.575Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:27:14.607Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:30:33.931Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:30:33.957Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:32:55.809Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:32:55.831Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:34:43.769Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:34:43.797Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:36:31.366Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:36:31.402Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:37:26.409Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:37:26.442Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:39:51.351Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:39:51.387Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:42:52.618Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:42:52.647Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:45:12.252Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:45:12.302Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:45:34.578Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:45:34.614Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:47:43.168Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:47:43.201Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:49:57.851Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:49:57.894Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:51:49.534Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:51:49.591Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:54:05.289Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:54:05.323Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:57:40.300Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:57:40.342Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T09:59:31.425Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T09:59:31.459Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:01:26.343Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:01:26.378Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:04:39.395Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:04:39.425Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:06:03.646Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:06:03.680Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:08:59.707Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:08:59.747Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:19:46.740Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:19:46.788Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:24:57.133Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:24:57.171Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:43:59.777Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:43:59.812Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:47:23.572Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:47:23.607Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:50:28.827Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:50:28.856Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T10:55:36.910Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T10:55:36.946Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T11:01:18.204Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T11:01:18.236Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T11:10:40.485Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T11:10:40.540Z"
+      }
+    ]
+  },
+  {
+    "applicationId": "guard_test_123",
+    "company": "Guard Company",
+    "role": "React JS Developer",
+    "jobUrl": "https://www.naukri.com/job-listings-guard-test-123",
+    "currentStatus": "SUBMITTED",
+    "status": "SUBMITTED",
+    "updatedAt": "2026-08-13T07:32:22.809Z",
+    "notes": "Applied successfully",
+    "history": [
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T05:52:05.574Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T05:55:15.032Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T05:56:04.557Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:01:25.659Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:04:39.127Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:08:42.182Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:12:11.918Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:17:21.057Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:24:22.323Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:25:59.110Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:27:58.839Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:29:23.528Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:31:21.849Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:33:08.957Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:35:04.811Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:37:36.309Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:38:16.282Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:42:30.843Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:43:35.000Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:46:06.793Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:48:31.121Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:49:07.301Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:49:42.979Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:50:04.272Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:54:08.519Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:54:28.953Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:54:44.656Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:57:30.342Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:00:42.236Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:01:10.273Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:01:36.557Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:01:55.950Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:02:14.621Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:06:12.615Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:08:30.600Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:08:52.174Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:10:39.016Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:15:33.140Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:16:00.029Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:16:27.604Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:36:00.735Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:47:37.168Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T07:49:25.058Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:17:46.316Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:29:35.772Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:31:04.439Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:36:15.778Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:37:35.808Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:38:55.221Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:48:20.875Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:49:24.918Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:50:39.330Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T11:51:55.405Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T12:13:20.770Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T12:14:28.739Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T12:29:12.690Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T12:35:07.959Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:03:30.183Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:04:03.551Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:04:34.563Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:05:33.754Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T06:06:37.306Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:00:54.812Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:02:46.227Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:04:47.533Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:16:50.130Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:26:36.898Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:28:24.969Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:36:55.199Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:44:26.645Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:50:16.356Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T07:57:13.521Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T08:05:24.768Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T08:07:04.801Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T10:05:02.411Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T10:12:29.730Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T10:13:16.843Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-11T10:17:57.805Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:32:22.809Z"
+      }
+    ]
+  },
+  {
+    "applicationId": "b00c6b8697",
+    "company": "Sixsigma Technosoft",
+    "role": "MERN Stack Developer",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-developer-sixsigma-technosoft-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-1-to-5-years-121224502854",
+    "currentStatus": "EXTERNAL_APPLICATION_REQUIRED",
+    "status": "EXTERNAL_APPLICATION_REQUIRED",
+    "updatedAt": "2026-08-13T07:33:47.143Z",
+    "notes": "EXTERNAL_APPLY_HERE_URL_DETECTED: https://theglove.ezrecruit.ai/apply/8Rf01qXvn9v5",
+    "history": [
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:08:16.456Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T07:33:47.143Z"
+      },
+      {
+        "status": "EXTERNAL_APPLICATION_REQUIRED",
+        "timestamp": "2026-08-13T09:09:51.550Z",
+        "reason": "P3.51 Live DOM audit detected external recruitment URL"
+      }
+    ],
+    "lastVerifiedAt": "2026-08-13T11:01:17.546Z",
+    "verificationStatus": "NOT_VERIFIED",
+    "verifiedNaukriStatus": "NOT_DETECTED",
+    "verificationReason": "EXTERNAL_APPLY_HERE_URL_DETECTED: https://theglove.ezrecruit.ai/apply/8Rf01qXvn9v5",
+    "liveApplyType": "UNKNOWN",
+    "auditClassification": "VERIFICATION_ERROR",
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED"
+  },
+  {
+    "applicationId": "57f713042c",
+    "company": "Vbeyond Corporation",
+    "role": "Mern Stack Developer",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-developer-vbeyond-corporation-bengaluru-india-3-to-8-years-110826030691",
+    "currentStatus": "EXTERNAL_APPLICATION_REQUIRED",
+    "status": "EXTERNAL_APPLICATION_REQUIRED",
+    "updatedAt": "2026-08-13T11:01:21.679Z",
+    "notes": "EXTERNAL_APPLY_HERE_URL_DETECTED: https://theglove.ezrecruit.ai/apply/8Rf01qXvn9v5",
+    "history": [
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:11:21.478Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:14:51.890Z"
+      },
+      {
+        "status": "NO_RESPONSE",
+        "timestamp": "2026-08-10T06:16:31.574Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-10T06:16:42.535Z"
+      },
+      {
+        "status": "EXTERNAL_APPLICATION_REQUIRED",
+        "timestamp": "2026-08-13T09:09:21.247Z",
+        "reason": "P3.51 Live DOM audit detected external recruitment URL"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:15.552Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:57.204Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:10.637Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:15.030Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:14.637Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:18.780Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:26.426Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:27.960Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:21.134Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:21.738Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:29.152Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:32.263Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:53.742Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:57.134Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:41.188Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:43.056Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:12.621Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:14.002Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:32.113Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:37.074Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:53.413Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:55.275Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:41.938Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:42.612Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:27.613Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:29.496Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:23.445Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:27.212Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:48.762Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:50.677Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:50.476Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:51.991Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:07.898Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:08.600Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:33.161Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:36.080Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:42.421Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:45.425Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:49:56.435Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:49:57.184Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:47.063Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:47.839Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:06.727Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:07.449Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:38.747Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:39.536Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:30.263Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:34.188Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:23.858Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:25.409Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:41.555Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:42.327Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:02.874Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:04.356Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:08:58.826Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:09:01.186Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:48.453Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:49.898Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:24:53.931Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:24:54.843Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:43:57.510Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:43:58.934Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:22.140Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:24.795Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:25.848Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:28.119Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:35.479Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:38.306Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:17.615Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:21.679Z"
+      }
+    ],
+    "lastVerifiedAt": "2026-08-13T11:01:21.715Z",
+    "verificationStatus": "NOT_VERIFIED",
+    "verifiedNaukriStatus": "NOT_DETECTED",
+    "verificationReason": "EXTERNAL_APPLY_HERE_URL_DETECTED: https://theglove.ezrecruit.ai/apply/8Rf01qXvn9v5",
+    "liveApplyType": "UNKNOWN",
+    "auditClassification": "VERIFICATION_ERROR",
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED"
+  },
+  {
+    "applicationId": "test123",
+    "jobId": "test123",
+    "company": "Company",
+    "role": "Software Developer",
+    "jobUrl": "https://www.naukri.com/job-listings-test-123",
+    "currentStatus": "ALREADY_APPLIED",
+    "status": "ALREADY_APPLIED",
+    "updatedAt": "2026-08-13T07:33:11.442Z",
+    "notes": "Already applied",
+    "history": [
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T07:33:11.442Z"
+      }
+    ]
+  },
+  {
+    "applicationId": "1ad3e0d369",
+    "jobId": "1ad3e0d369",
+    "company": "jobaaj",
+    "role": "Software Developer MERN Stack",
+    "jobUrl": "https://www.naukri.com/job-listings-software-developer-mern-stack-jobaaj-com-hyderabad-pune-bengaluru-0-to-1-years-110826040389",
+    "currentStatus": "SUBMITTED",
+    "status": "SUBMITTED",
+    "updatedAt": "2026-08-13T07:37:38.819Z",
+    "notes": "User confirmed via Telegram",
+    "history": [
+      {
+        "status": "OPENED",
+        "timestamp": "2026-08-13T07:37:06.524Z"
+      },
+      {
+        "status": "FORM_DETECTED",
+        "timestamp": "2026-08-13T07:37:17.151Z"
+      },
+      {
+        "status": "PREFILLED",
+        "timestamp": "2026-08-13T07:37:17.230Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T07:37:19.977Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T07:37:38.819Z"
+      }
+    ],
+    "lastVerifiedAt": "2026-08-13T11:01:19.584Z",
+    "verificationStatus": "VERIFIED_APPLIED",
+    "verifiedNaukriStatus": "Applied",
+    "verificationReason": "Live Naukri page DOM displays applied indicator (\"Applied\")",
+    "liveApplyType": "EASY_APPLY",
+    "auditClassification": "ALREADY_APPLIED"
+  },
+  {
+    "applicationId": "be6497dbdc",
+    "jobId": "be6497dbdc",
+    "company": "The Glove",
+    "role": "Mern Stack Developer",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-developer-the-glove-bengaluru-india-3-to-8-years-110826030677",
+    "currentStatus": "MANUAL_REQUIRED",
+    "status": "MANUAL_REQUIRED",
+    "updatedAt": "2026-08-13T11:01:21.597Z",
+    "notes": "EXTERNAL_APPLICATION",
+    "history": [
+      {
+        "status": "OPENED",
+        "timestamp": "2026-08-13T08:09:05.867Z"
+      },
+      {
+        "status": "FORM_DETECTED",
+        "timestamp": "2026-08-13T08:09:15.818Z"
+      },
+      {
+        "status": "PREFILLED",
+        "timestamp": "2026-08-13T08:09:15.900Z"
+      },
+      {
+        "status": "WAITING_CONFIRMATION",
+        "timestamp": "2026-08-13T08:09:18.160Z"
+      },
+      {
+        "status": "SUBMITTED",
+        "timestamp": "2026-08-13T08:09:24.809Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T08:14:22.222Z"
+      },
+      {
+        "status": "EXTERNAL_APPLICATION_REQUIRED",
+        "timestamp": "2026-08-13T08:46:27.978Z",
+        "reason": "EXTERNAL_APPLY_HERE_URL_DETECTED: https://theglove.ezrecruit.ai/apply/8Rf01qXvn9v5"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:58:16.233Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:19.768Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:11:00.011Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:10.424Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:22.258Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:14.472Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:23.350Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:26.252Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:35.206Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:21.666Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:23.423Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:29.088Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:31.021Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:52.501Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:57.070Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:42.992Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:46.181Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:12.539Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:13.210Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:32.639Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:37.006Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:55.195Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:56.960Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:39.356Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:41.858Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:26.677Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:29.431Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:27.127Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:28.081Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:48.060Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:48.689Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:51.878Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:55.329Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:08.517Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:10.820Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:35.970Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:37.424Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:45.315Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:47.759Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:49:57.087Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:49:58.426Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:47.730Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:51.913Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:04.525Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:07.364Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:37.921Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:38.670Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:32.699Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:34.092Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:24.570Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:25.291Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:40.007Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:42.239Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:04.282Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:08.012Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:08:57.074Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:09:01.100Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:49.085Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:49.795Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:24:54.745Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:24:57.990Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:43:58.170Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:43:58.844Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:24.676Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:27.421Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:26.538Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:28.020Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:35.407Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:36.133Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:16.975Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:21.597Z"
+      }
+    ],
+    "applyType": "EXTERNAL_APPLICATION_REQUIRED",
+    "lastVerifiedAt": "2026-08-13T11:01:19.602Z",
+    "verificationStatus": "NOT_VERIFIED",
+    "verifiedNaukriStatus": "External Application Required",
+    "verificationReason": "Live DOM displays external recruitment URL",
+    "liveApplyType": "EXTERNAL_APPLICATION_REQUIRED",
+    "auditClassification": "EXTERNAL_APPLICATION_REQUIRED"
+  },
+  {
+    "applicationId": "ext_test_999",
+    "jobId": "ext_test_999",
+    "company": "The Glove",
+    "role": "Mern Stack Developer",
+    "jobUrl": "https://www.naukri.com/job-listings-mern-stack-developer-the-glove-ext-999",
+    "currentStatus": "MANUAL_REQUIRED",
+    "status": "MANUAL_REQUIRED",
+    "updatedAt": "2026-08-13T11:01:23.084Z",
+    "notes": "EXTERNAL_APPLICATION",
+    "history": [
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T08:15:00.847Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T08:15:35.140Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:20:10.344Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:47:10.055Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:53:07.158Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:53:54.759Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:58:27.718Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:28.744Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:11:09.807Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:23.713Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:28.982Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:38.033Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:25.584Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:33.502Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:55.442Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:44.148Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:15.674Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:37.628Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:58.335Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:41.331Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:28.335Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:25.793Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:52.634Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:55.956Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:12.983Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:36.836Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:47.073Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:50:00.316Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:50.310Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:09.373Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:43.076Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:30.830Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:27.611Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:44.394Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:06.554Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:09:02.568Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:53.405Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:25:00.244Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:44:03.230Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:22.846Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:29.999Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:40.916Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:23.084Z"
+      }
+    ]
+  },
+  {
+    "applicationId": "ext_safety_001",
+    "jobId": "ext_safety_001",
+    "company": "External Corp Safety Test",
+    "role": "Full Stack Engineer",
+    "jobUrl": "https://www.naukri.com/job-listings-ext-safety-001",
+    "currentStatus": "MANUAL_REQUIRED",
+    "status": "MANUAL_REQUIRED",
+    "updatedAt": "2026-08-13T11:01:18.925Z",
+    "notes": "EXTERNAL_APPLICATION",
+    "history": [
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:47:05.667Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:52:58.852Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:53:49.348Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:58:22.145Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:21.630Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:58.762Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:16.685Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:20.433Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:29.579Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:22.323Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:30.339Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:53.111Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:42.408Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:12.119Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:35.800Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:52.848Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:38.689Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:26.119Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:25.216Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:49.389Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:53.286Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:11.558Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:35.330Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:46.451Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:49:55.592Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:48.638Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:06.008Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:41.032Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:33.533Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:21.061Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:43.058Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:05.141Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:08:57.971Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:47.637Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:24:53.036Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:44:01.818Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:26.610Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:25.211Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:39.656Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:18.925Z"
+      }
+    ]
+  },
+  {
+    "applicationId": "manual_001",
+    "jobId": "manual_001",
+    "company": "Manual Test Company",
+    "role": "Backend Dev",
+    "jobUrl": "https://www.naukri.com/job-listings-manual-001",
+    "currentStatus": "MANUAL_REQUIRED",
+    "status": "MANUAL_REQUIRED",
+    "updatedAt": "2026-08-13T11:01:17.006Z",
+    "notes": "EXTERNAL_APPLICATION",
+    "history": [
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:58:16.354Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:19.846Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:11:00.097Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:22.329Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:23.419Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:35.276Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:23.450Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:31.058Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:52.530Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:46.209Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:13.243Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:32.678Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:56.994Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:39.390Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:26.712Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:28.138Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:48.095Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:55.369Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:10.852Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:37.460Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:47.786Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:49:58.463Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:51.958Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:04.557Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:37.974Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:32.747Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:24.614Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:40.044Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:08.047Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:08:57.118Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:49.121Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:24:58.035Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:43:58.211Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:27.464Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:26.579Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:36.177Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:17.006Z"
+      }
+    ]
+  },
+  {
+    "applicationId": "prep_only_01",
+    "jobId": "prep_only_01",
+    "company": "Prep Only Company",
+    "role": "React Engineer",
+    "jobUrl": "https://www.naukri.com/job-listings-prep-only-01",
+    "currentStatus": "MANUAL_REQUIRED",
+    "status": "MANUAL_REQUIRED",
+    "updatedAt": "2026-08-13T11:01:17.036Z",
+    "notes": "EXTERNAL_APPLICATION",
+    "history": [
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T08:58:16.422Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:10:19.923Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:11:00.198Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:16:22.430Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:17:23.490Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:20:35.385Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:23:23.479Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:31.086Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:25:52.562Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:26:46.242Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:27:13.295Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:30:32.717Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:32:57.032Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:34:39.423Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:36:26.757Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:37:28.191Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:39:48.125Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:42:55.400Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:10.892Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:45:37.496Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:47:47.813Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:49:58.501Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:51:52.005Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:54:04.595Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:57:38.022Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T09:59:32.780Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:01:24.663Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:04:40.077Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:06:08.094Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:08:57.166Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:19:49.158Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:24:58.074Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:43:58.251Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:47:27.520Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:50:26.622Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T10:55:36.225Z"
+      },
+      {
+        "status": "MANUAL_REQUIRED",
+        "timestamp": "2026-08-13T11:01:17.036Z"
+      }
+    ]
+  },
+  {
+    "applicationId": "sub_test_01",
+    "jobId": "sub_test_01",
+    "company": "Submitted Test Company",
+    "role": "Backend Dev",
+    "jobUrl": "https://www.naukri.com/job-listings-sub-test-01",
+    "currentStatus": "ALREADY_APPLIED",
+    "status": "ALREADY_APPLIED",
+    "updatedAt": "2026-08-13T11:01:21.630Z",
+    "notes": "Already applied",
+    "history": [
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:16:10.494Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:17:14.551Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:20:26.341Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:23:21.701Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:25:29.120Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:25:57.100Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:26:43.023Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:27:12.581Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:30:37.036Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:32:55.235Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:34:41.896Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:36:29.460Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:37:27.167Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:39:48.725Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:42:51.932Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:45:08.552Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:45:36.026Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:47:45.375Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:49:57.127Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:51:47.779Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:54:07.405Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:57:38.713Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T09:59:34.140Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:01:25.357Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:04:42.277Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:06:04.316Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:09:01.139Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:19:49.842Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:24:54.789Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:43:58.888Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:47:24.722Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:50:28.071Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T10:55:35.442Z"
+      },
+      {
+        "status": "ALREADY_APPLIED",
+        "timestamp": "2026-08-13T11:01:21.630Z"
+      }
+    ]
+  }
+]

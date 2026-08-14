@@ -1,0 +1,76 @@
+[
+  {
+    "responseId": "resp_1786361349920_1",
+    "incidentId": "inc_1786361349841_4",
+    "anomalyType": "HEALTH_REGRESSION",
+    "incidentSeverity": "WARNING",
+    "responseType": "HEALTH_RECHECK",
+    "responseStatus": "RESOLVED",
+    "createdAt": "2026-08-10T11:29:09.920Z",
+    "startedAt": "2026-08-10T11:29:09.943Z",
+    "completedAt": "2026-08-10T11:29:09.956Z",
+    "recoveryVerificationStatus": "PASSED",
+    "actions": [
+      {
+        "step": 1,
+        "name": "EVALUATE_POLICY",
+        "status": "COMPLETED"
+      },
+      {
+        "step": 2,
+        "name": "HEALTH_RECHECK",
+        "status": "COMPLETED"
+      },
+      {
+        "step": 3,
+        "name": "VERIFY_RECOVERY",
+        "status": "COMPLETED"
+      }
+    ],
+    "requiresUserApproval": false,
+    "automationAllowed": false,
+    "failureReason": null,
+    "verificationEvidence": {
+      "overallStatus": "DEGRADED",
+      "reconciledApps": 7,
+      "inconsistentApps": 4
+    }
+  },
+  {
+    "responseId": "resp_1786361749540_2",
+    "incidentId": "inc_1786348006695_3",
+    "anomalyType": "RECURRING_ALERT",
+    "incidentSeverity": "WARNING",
+    "responseType": "INCIDENT_REASSESSMENT",
+    "responseStatus": "RECOVERY_PENDING",
+    "createdAt": "2026-08-10T11:35:49.540Z",
+    "startedAt": "2026-08-11T10:17:43.735Z",
+    "completedAt": "2026-08-11T10:17:43.760Z",
+    "recoveryVerificationStatus": "FAILED",
+    "actions": [
+      {
+        "step": 1,
+        "name": "EVALUATE_POLICY",
+        "status": "COMPLETED"
+      },
+      {
+        "step": 2,
+        "name": "INCIDENT_REASSESSMENT",
+        "status": "COMPLETED"
+      },
+      {
+        "step": 3,
+        "name": "VERIFY_RECOVERY",
+        "status": "PENDING"
+      }
+    ],
+    "requiresUserApproval": false,
+    "automationAllowed": false,
+    "failureReason": "ANOMALY_STILL_ACTIVE (RECURRING_ALERT detected in post-verification check)",
+    "verificationEvidence": {
+      "overallStatus": "DEGRADED",
+      "reconciledApps": 7,
+      "inconsistentApps": 4
+    }
+  }
+]

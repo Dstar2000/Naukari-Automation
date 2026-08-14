@@ -1,0 +1,22 @@
+[
+  {
+    "decisionId": "act_opportunity_040826909193",
+    "actionType": "HIGH_MATCH_OPPORTUNITY",
+    "priority": "MEDIUM",
+    "score": 58,
+    "title": "Unapplied high-match job: MERN Stack Developer at Infosys",
+    "reason": "Job match score is 95%. Candidate skills align well. Job is currently unengaged.",
+    "suggestedAction": "Review job recommendation for user approval.",
+    "applicationId": null,
+    "jobId": "040826909193",
+    "decisionStatus": "APPROVED",
+    "requiresUserApproval": true,
+    "automationAllowed": false,
+    "decidedAt": "2026-08-10T07:05:18.429Z",
+    "executionStatus": "EXECUTED",
+    "executionConfirmedAt": "2026-08-10T07:05:28.065Z",
+    "executionStartedAt": "2026-08-10T07:05:28.066Z",
+    "executionCompletedAt": "2026-08-10T07:05:28.069Z",
+    "executionApplicationId": "040826909193"
+  }
+]

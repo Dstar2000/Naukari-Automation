@@ -1,0 +1,13 @@
+[2026-08-08T09:58:44.609Z] applicationId=flw_test_123 jobId=4762e254ae company="Hotfix Tech" role="MERN Developer" validationStatus=LIVE followupSent=true suppressed=false reason="VERIFIED_LIVE_JOB_DETAIL"
+[2026-08-08T09:58:44.648Z] applicationId=flw_test_123 jobId=4762e254ae company="Hotfix Tech" role="MERN Developer" validationStatus=JOB_EXPIRED followupSent=false suppressed=true reason="MOCKED_TEST_STATUS"
+[2026-08-08T09:58:45.472Z] applicationId=flw_test_123 jobId=4762e254ae company="Hotfix Tech" role="MERN Developer" validationStatus=LIVE followupSent=true suppressed=false reason="VERIFIED_LIVE_JOB_DETAIL"
+[2026-08-08T09:59:19.606Z] applicationId=intel_test_123 jobId=0693c8054d company="Intel Company" role="Full Stack Engineer" validationStatus=VALIDATION_FAILED followupSent=false suppressed=true reason="PLAYWRIGHT_NAVIGATION_ERROR: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.naukri.com/job-listings-old-99", waiting until "domcontentloaded"[22m
+"
+[2026-08-08T10:00:04.461Z] applicationId=flw_test_123 jobId=4762e254ae company="Hotfix Tech" role="MERN Developer" validationStatus=LIVE followupSent=true suppressed=false reason="VERIFIED_LIVE_JOB_DETAIL"
+[2026-08-08T10:00:04.500Z] applicationId=flw_test_123 jobId=4762e254ae company="Hotfix Tech" role="MERN Developer" validationStatus=JOB_EXPIRED followupSent=false suppressed=true reason="MOCKED_TEST_STATUS"
+[2026-08-08T10:00:05.350Z] applicationId=flw_test_123 jobId=4762e254ae company="Hotfix Tech" role="MERN Developer" validationStatus=LIVE followupSent=true suppressed=false reason="VERIFIED_LIVE_JOB_DETAIL"
+[2026-08-08T10:00:05.791Z] applicationId=flw_test_123 jobId=4762e254ae company="Hotfix Tech" role="MERN Developer" validationStatus=LIVE followupSent=true suppressed=false reason="VERIFIED_LIVE_JOB_DETAIL"
+[2026-08-08T10:00:06.283Z] applicationId=flw_test_123 jobId=4762e254ae company="Hotfix Tech" role="MERN Developer" validationStatus=LIVE followupSent=true suppressed=false reason="VERIFIED_LIVE_JOB_DETAIL"
+[2026-08-08T10:00:08.228Z] applicationId=intel_test_123 jobId=0693c8054d company="Intel Company" role="Full Stack Engineer" validationStatus=LIVE followupSent=true suppressed=false reason="VERIFIED_LIVE_JOB_DETAIL"

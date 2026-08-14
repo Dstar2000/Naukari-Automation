@@ -1,0 +1,121 @@
+{
+  "latestSnapshot": {
+    "generatedAt": "2026-08-13T11:01:08.947Z",
+    "system": {
+      "overallStatus": "DEGRADED",
+      "schedulerStatus": "RUNNING"
+    },
+    "governance": {
+      "governanceStatus": "ACTIVE",
+      "operatorMode": "NORMAL",
+      "automationPolicy": {
+        "schedulersEnabled": true,
+        "autonomousSubmissionsAllowed": false
+      },
+      "incidentPolicy": {
+        "automatedIncidentResponseEnabled": true,
+        "incidentCooldownMinutes": 15
+      },
+      "notificationPolicy": {
+        "telegramNotificationsEnabled": true,
+        "dailyDigestEnabled": true
+      },
+      "lastChangedAt": "2026-08-10T12:00:00.000Z",
+      "changeCount": 0
+    },
+    "health": {
+      "overallStatus": "DEGRADED",
+      "componentStatuses": {},
+      "activeAlertsCount": 0,
+      "keyMetrics": {
+        "jobsDiscovered": 60,
+        "uniqueJobs": 60,
+        "duplicateJobs": 0,
+        "applicationsTracked": 18,
+        "applicationsSubmitted": 4,
+        "applicationsEngaged": 17,
+        "pendingFollowups": 0,
+        "pendingDecisionActions": 0,
+        "executedDecisionActions": 1,
+        "ambiguousExecutionActions": 0,
+        "schedulerCount": 3,
+        "configuredSchedulerCount": 3,
+        "digestLastSentDate": "2026-08-13",
+        "decisionDigestLastSentDate": "NONE"
+      }
+    },
+    "healthHistory": {
+      "totalSnapshots": 1
+    },
+    "anomalies": {
+      "totalActive": 1,
+      "criticalCount": 0,
+      "recent": [
+        {
+          "code": "RECURRING_ALERT",
+          "severity": "MEDIUM",
+          "component": "Alerts",
+          "message": "Alert code \"APPLICATION_LINEAGE_MISMATCH\" has recurred across 4 health snapshots.",
+          "evidence": {
+            "alertCode": "APPLICATION_LINEAGE_MISMATCH",
+            "occurrenceCount": 4
+          },
+          "recommendedAction": "Resolve persistent underlying cause for alert code APPLICATION_LINEAGE_MISMATCH."
+        }
+      ]
+    },
+    "incidents": {
+      "total": 4,
+      "open": 0,
+      "acknowledged": 0,
+      "responseRunning": 0,
+      "recoveryPending": 0,
+      "resolved": 4,
+      "suppressed": 0
+    },
+    "responses": {
+      "total": 2,
+      "statusCounts": {
+        "PLANNED": 0,
+        "RUNNING": 0,
+        "VERIFIED": 0,
+        "RESOLVED": 1,
+        "FAILED": 0,
+        "AMBIGUOUS": 0
+      }
+    },
+    "reliability": {
+      "overallStatus": "RELIABILITY_CERTIFIED",
+      "telegramNetworkCalls": 0,
+      "playwrightLaunches": 0,
+      "externalCareerActions": 0,
+      "coreStoreMutations": 0
+    },
+    "discovery": {
+      "discoveredJobsCount": 60,
+      "matchedJobsCount": 11,
+      "highMatchCount": 7
+    },
+    "applications": {
+      "queuedCount": 0,
+      "executingCount": 0,
+      "submittedCount": 3,
+      "engagedCount": 3
+    },
+    "outcomes": {
+      "pendingFollowupsCount": 0,
+      "interviewsCount": 0,
+      "rejectionsCount": 0,
+      "offersCount": 0
+    },
+    "operatorAttention": {
+      "level": "REVIEW_RECOMMENDED",
+      "priority": 3,
+      "required": false,
+      "reasons": [
+        "DEGRADED_SYSTEM_HEALTH"
+      ]
+    },
+    "snapshotFingerprint": "af295730778df727b7bd7b8f5b683b77d0aa929e088f5f139b4521657b29e909"
+  }
+}

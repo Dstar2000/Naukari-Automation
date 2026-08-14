@@ -1,0 +1,113 @@
+[
+  {
+    "incidentId": "inc_1786347979734_1",
+    "incidentType": "RECURRING_ALERT",
+    "severity": "WARNING",
+    "status": "RESOLVED",
+    "detectedAt": "2026-08-10T07:46:19.734Z",
+    "lastDetectedAt": "2026-08-10T07:46:19.734Z",
+    "source": "CareerOSWatchdog",
+    "fingerprint": "463e87431efb7426a559daa86098aa0a6a7b2e18050b0a4d186fc12859f0cf78",
+    "title": "Alert code \"APPLICATION_LINEAGE_MISMATCH\" has recurred across 4 health snapshots.",
+    "summary": "Alert code \"APPLICATION_LINEAGE_MISMATCH\" has recurred across 4 health snapshots.",
+    "evidence": {
+      "alertCode": "APPLICATION_LINEAGE_MISMATCH",
+      "occurrenceCount": 4
+    },
+    "affectedComponent": "Alerts",
+    "recommendedAction": "Resolve persistent underlying cause for alert code APPLICATION_LINEAGE_MISMATCH.",
+    "occurrenceCount": 1,
+    "acknowledgedAt": "2026-08-10T07:46:19.769Z",
+    "resolvedAt": "2026-08-10T07:46:19.801Z",
+    "resolution": "Resolved in Phase P3.20 Dry Run",
+    "requiresUserAttention": true,
+    "notificationState": {
+      "lastSentAt": null,
+      "lastMessageId": null,
+      "notificationCount": 0
+    }
+  },
+  {
+    "incidentId": "inc_1786348006575_2",
+    "incidentType": "TEST_AUDIT_ANOMALY",
+    "severity": "WARNING",
+    "status": "RESOLVED",
+    "detectedAt": "2026-08-10T07:46:46.575Z",
+    "lastDetectedAt": "2026-08-10T07:46:46.599Z",
+    "source": "CareerOSWatchdog",
+    "fingerprint": "bce348adec62560cb88cdaacf6cbf05a33dffd71fccb902464d68050f6384260",
+    "title": "Audit test anomaly",
+    "summary": "Audit test anomaly",
+    "evidence": {
+      "test": 1
+    },
+    "affectedComponent": "AuditModule",
+    "recommendedAction": "Inspect system health and logs.",
+    "occurrenceCount": 2,
+    "acknowledgedAt": "2026-08-10T07:46:46.619Z",
+    "resolvedAt": "2026-08-10T07:46:46.674Z",
+    "resolution": "Resolved by forensic audit",
+    "requiresUserAttention": true,
+    "notificationState": {
+      "lastSentAt": null,
+      "lastMessageId": null,
+      "notificationCount": 0
+    }
+  },
+  {
+    "incidentId": "inc_1786348006695_3",
+    "incidentType": "RECURRING_ALERT",
+    "severity": "WARNING",
+    "status": "RESOLVED",
+    "detectedAt": "2026-08-10T07:46:46.695Z",
+    "lastDetectedAt": "2026-08-11T10:17:43.707Z",
+    "source": "CareerOSWatchdog",
+    "fingerprint": "463e87431efb7426a559daa86098aa0a6a7b2e18050b0a4d186fc12859f0cf78",
+    "title": "Alert code \"APPLICATION_LINEAGE_MISMATCH\" has recurred across 4 health snapshots.",
+    "summary": "Alert code \"APPLICATION_LINEAGE_MISMATCH\" has recurred across 4 health snapshots.",
+    "evidence": {
+      "alertCode": "APPLICATION_LINEAGE_MISMATCH",
+      "occurrenceCount": 4
+    },
+    "affectedComponent": "Alerts",
+    "recommendedAction": "Resolve persistent underlying cause for alert code APPLICATION_LINEAGE_MISMATCH.",
+    "occurrenceCount": 97,
+    "acknowledgedAt": "2026-08-11T10:17:43.707Z",
+    "resolvedAt": "2026-08-11T10:17:43.707Z",
+    "resolution": "Resolved in Phase P3.25 Audit",
+    "requiresUserAttention": true,
+    "notificationState": {
+      "lastSentAt": null,
+      "lastMessageId": null,
+      "notificationCount": 0
+    }
+  },
+  {
+    "incidentId": "inc_1786361349841_4",
+    "incidentType": "HEALTH_REGRESSION",
+    "severity": "WARNING",
+    "status": "RESOLVED",
+    "detectedAt": "2026-08-10T11:29:09.841Z",
+    "lastDetectedAt": "2026-08-10T11:29:09.871Z",
+    "source": "CareerOSWatchdog",
+    "fingerprint": "39251cef05c89e3cf9bae3bce71014660b43519f98dcc5524af23340da3bc5b4",
+    "title": "p3_22_synthetic_health_regression",
+    "summary": "p3_22_synthetic_health_regression",
+    "evidence": {
+      "synthetic": true,
+      "tag": "p3_22_verification"
+    },
+    "affectedComponent": "System",
+    "recommendedAction": "Inspect system health and logs.",
+    "occurrenceCount": 2,
+    "acknowledgedAt": "2026-08-10T11:29:09.895Z",
+    "resolvedAt": "2026-08-10T11:29:10.033Z",
+    "resolution": "Resolved via Response Plan resp_1786361349920_1 (HEALTH_RECHECK)",
+    "requiresUserAttention": true,
+    "notificationState": {
+      "lastSentAt": null,
+      "lastMessageId": null,
+      "notificationCount": 0
+    }
+  }
+]
